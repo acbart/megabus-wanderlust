@@ -1,0 +1,87 @@
+89 Albany, NY
+90 Amherst, MA
+91 Ann Arbor, MI
+302 Athens, GA
+289 Atlanta, GA
+320 Austin, TX
+143 Baltimore, MD
+93 Binghamton, NY
+292 Birmingham, AL
+94 Boston, MA
+335 Brenham, TX
+273 Buffalo Airport, NY
+95 Buffalo, NY
+96 Burlington, VT
+98 Champaign, IL
+99 Charlotte, NC
+290 Chattanooga, TN
+100 Chicago, IL
+101 Christiansburg, VA
+102 Cincinnati, OH
+103 Cleveland, OH
+104 Columbia, MO
+105 Columbus, OH
+317 Dallas/Fort Worth, TX
+106 Des Moines, IA
+107 Detroit, MI
+131 Durham, NC
+330 East Lansing, MI
+316 Fairhaven, MA
+296 Gainesville, FL
+331 Grand Rapids, MI
+110 Hampton, VA
+111 Harrisburg, PA
+112 Hartford, CT
+318 Houston, TX
+115 Indianapolis, IN
+116 Iowa City, IA
+295 Jacksonville, FL
+117 Kansas City, MO
+118 Knoxville, TN
+417 Las Vegas, NV
+324 Little Rock, AR
+390 Los Angeles, CA
+298 Louisville, KY
+300 Madison, U of Wisc, WI
+119 Madison, WI
+120 Memphis, TN
+121 Milwaukee, WI
+144 Minneapolis, MN
+294 Mobile, AL
+293 Montgomery, AL
+299 Morgantown, WV
+291 Nashville , TN
+305 New Brunswick, NJ
+122 New Haven, CT
+303 New Orleans, LA
+123 New York, NY
+389 Newark, DE
+413 Oakland, CA
+126 Omaha, NE
+297 Orlando, FL
+127 Philadelphia, PA
+128 Pittsburgh, PA
+129 Portland, ME
+336 Prairie View, TX
+304 Princeton, NJ
+130 Providence, RI
+418 Reno, NV
+132 Richmond, VA
+133 Ridgewood, NJ
+416 Riverside, CA
+134 Rochester, NY
+415 Sacramento, CA
+321 San Antonio, TX
+414 San Francisco, CA
+412 San Jose, CA
+301 Saratoga Springs, NY
+135 Secaucus, NJ
+419 Sparks, NV
+136 St Louis, MO
+137 State College, PA
+138 Storrs, CT
+139 Syracuse, NY
+407 Texarkana, AR
+140 Toledo, OH
+145 Toronto, ON
+142 Washington, DC
