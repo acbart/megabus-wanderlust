@@ -1,0 +1,64 @@
+Christiansburg, VA to Newark, DE
+	Day 22
+		Cost: $34.0
+		Total Hours: 9:55
+		Leave 1st: Mon 03:15 AM
+		Arrive 2nd: Mon 07:45 AM
+		Wait: 3:15
+		Leave 2nd: Mon 11:00 AM
+		Arrive 3rd: Mon 01:10 PM
+
+	Day 23
+		Cost: $34.0
+		Total Hours: 9:55
+		Leave 1st: Tue 03:15 AM
+		Arrive 2nd: Tue 07:45 AM
+		Wait: 3:15
+		Leave 2nd: Tue 11:00 AM
+		Arrive 3rd: Tue 01:10 PM
+
+	Day 24
+		Cost: $34.0
+		Total Hours: 9:55
+		Leave 1st: Wed 03:15 AM
+		Arrive 2nd: Wed 07:45 AM
+		Wait: 3:15
+		Leave 2nd: Wed 11:00 AM
+		Arrive 3rd: Wed 01:10 PM
+
+	Day 25
+		Cost: $38.0
+		Total Hours: 9:55
+		Leave 1st: Thu 03:15 AM
+		Arrive 2nd: Thu 07:45 AM
+		Wait: 3:15
+		Leave 2nd: Thu 11:00 AM
+		Arrive 3rd: Thu 01:10 PM
+
+	Day 26
+		Cost: $34.0
+		Total Hours: 9:55
+		Leave 1st: Fri 03:15 AM
+		Arrive 2nd: Fri 07:45 AM
+		Wait: 3:15
+		Leave 2nd: Fri 11:00 AM
+		Arrive 3rd: Fri 01:10 PM
+
+	Day 27
+		Cost: $35.0
+		Total Hours: 9:55
+		Leave 1st: Sat 03:15 AM
+		Arrive 2nd: Sat 07:45 AM
+		Wait: 3:15
+		Leave 2nd: Sat 11:00 AM
+		Arrive 3rd: Sat 01:10 PM
+
+	Day 28
+		Cost: $37.0
+		Total Hours: 9:55
+		Leave 1st: Sun 03:15 AM
+		Arrive 2nd: Sun 07:45 AM
+		Wait: 3:15
+		Leave 2nd: Sun 11:00 AM
+		Arrive 3rd: Sun 01:10 PM
+

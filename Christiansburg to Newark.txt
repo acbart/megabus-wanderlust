@@ -1,0 +1,72 @@
+Trek: 3
+	Total Cost: $12.0
+	Total Time: 9:55 hours
+	Total Time Waiting: 3:15 hours
+	Leave: Tue Aug 27 03:15 AM
+	Arrive: Tue Aug 27 01:10 PM
+	Itinerary:
+		Leave from Christiansburg, VA: Tue 03:15 AM
+		Arrive at Washington, DC: Tue 07:45 AM
+		Wait in Washington, DC: 3:15 hours
+		Leave from Washington, DC: Tue 11:00 AM
+		Arrive at Newark, DE: Tue 01:10 PM
+Trek: 11
+	Total Cost: $12.0
+	Total Time: 9:55 hours
+	Total Time Waiting: 3:15 hours
+	Leave: Mon Aug 26 03:15 AM
+	Arrive: Mon Aug 26 01:10 PM
+	Itinerary:
+		Leave from Christiansburg, VA: Mon 03:15 AM
+		Arrive at Washington, DC: Mon 07:45 AM
+		Wait in Washington, DC: 3:15 hours
+		Leave from Washington, DC: Mon 11:00 AM
+		Arrive at Newark, DE: Mon 01:10 PM
+Trek: 19
+	Total Cost: $12.0
+	Total Time: 9:55 hours
+	Total Time Waiting: 3:15 hours
+	Leave: Mon Aug 26 03:15 AM
+	Arrive: Mon Aug 26 01:10 PM
+	Itinerary:
+		Leave from Christiansburg, VA: Mon 03:15 AM
+		Arrive at Washington, DC: Mon 07:45 AM
+		Wait in Washington, DC: 3:15 hours
+		Leave from Washington, DC: Mon 11:00 AM
+		Arrive at Newark, DE: Mon 01:10 PM
+Trek: 27
+	Total Cost: $22.0
+	Total Time: 9:55 hours
+	Total Time Waiting: 3:15 hours
+	Leave: Sun Aug 25 03:15 AM
+	Arrive: Sun Aug 25 01:10 PM
+	Itinerary:
+		Leave from Christiansburg, VA: Sun 03:15 AM
+		Arrive at Washington, DC: Sun 07:45 AM
+		Wait in Washington, DC: 3:15 hours
+		Leave from Washington, DC: Sun 11:00 AM
+		Arrive at Newark, DE: Sun 01:10 PM
+Trek: 35
+	Total Cost: $22.0
+	Total Time: 9:55 hours
+	Total Time Waiting: 3:15 hours
+	Leave: Sun Aug 25 03:15 AM
+	Arrive: Sun Aug 25 01:10 PM
+	Itinerary:
+		Leave from Christiansburg, VA: Sun 03:15 AM
+		Arrive at Washington, DC: Sun 07:45 AM
+		Wait in Washington, DC: 3:15 hours
+		Leave from Washington, DC: Sun 11:00 AM
+		Arrive at Newark, DE: Sun 01:10 PM
+Trek: 43
+	Total Cost: $16.0
+	Total Time: 9:55 hours
+	Total Time Waiting: 3:15 hours
+	Leave: Sat Aug 24 03:15 AM
+	Arrive: Sat Aug 24 01:10 PM
+	Itinerary:
+		Leave from Christiansburg, VA: Sat 03:15 AM
+		Arrive at Washington, DC: Sat 07:45 AM
+		Wait in Washington, DC: 3:15 hours
+		Leave from Washington, DC: Sat 11:00 AM
+		Arrive at Newark, DE: Sat 01:10 PM
