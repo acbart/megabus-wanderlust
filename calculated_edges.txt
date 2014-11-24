@@ -1,0 +1,3608 @@
+[{
+	"origin": "Washington, DC",
+	"distance": 765412,
+	"end": "Toronto, ON, Canada",
+	"destination": "Toronto, ON",
+	"start": "Washington, DC, USA",
+	"duration": 30704
+},
+{
+	"origin": "Washington, DC",
+	"distance": 358733,
+	"end": "Secaucus, NJ, USA",
+	"destination": "Secaucus, NJ",
+	"start": "Washington, DC, USA",
+	"duration": 13135
+},
+{
+	"origin": "Washington, DC",
+	"distance": 175579,
+	"end": "Richmond, VA, USA",
+	"destination": "Richmond, VA",
+	"start": "Washington, DC, USA",
+	"duration": 6579
+},
+{
+	"origin": "Washington, DC",
+	"distance": 386381,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "Washington, DC, USA",
+	"duration": 14282
+},
+{
+	"origin": "Washington, DC",
+	"distance": 224594,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Washington, DC, USA",
+	"duration": 9002
+},
+{
+	"origin": "Washington, DC",
+	"distance": 154659,
+	"end": "Newark, DE, USA",
+	"destination": "Newark, DE",
+	"start": "Washington, DC, USA",
+	"duration": 6699
+},
+{
+	"origin": "Washington, DC",
+	"distance": 362199,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Washington, DC, USA",
+	"duration": 13598
+},
+{
+	"origin": "Washington, DC",
+	"distance": 329818,
+	"end": "Morgantown, WV, USA",
+	"destination": "Morgantown, WV",
+	"start": "Washington, DC, USA",
+	"duration": 12378
+},
+{
+	"origin": "Washington, DC",
+	"distance": 785015,
+	"end": "Knoxville, TN, USA",
+	"destination": "Knoxville, TN",
+	"start": "Washington, DC, USA",
+	"duration": 26031
+},
+{
+	"origin": "Washington, DC",
+	"distance": 288347,
+	"end": "Hampton, VA, USA",
+	"destination": "Hampton, VA",
+	"start": "Washington, DC, USA",
+	"duration": 10268
+},
+{
+	"origin": "Washington, DC",
+	"distance": 415850,
+	"end": "Durham, NC, USA",
+	"destination": "Durham, NC",
+	"start": "Washington, DC, USA",
+	"duration": 14530
+},
+{
+	"origin": "Washington, DC",
+	"distance": 426446,
+	"end": "Christiansburg, VA, USA",
+	"destination": "Christiansburg, VA",
+	"start": "Washington, DC, USA",
+	"duration": 14540
+},
+{
+	"origin": "Washington, DC",
+	"distance": 642654,
+	"end": "Charlotte, NC, USA",
+	"destination": "Charlotte, NC",
+	"start": "Washington, DC, USA",
+	"duration": 21831
+},
+{
+	"origin": "Washington, DC",
+	"distance": 607458,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "Washington, DC, USA",
+	"duration": 24991
+},
+{
+	"origin": "Washington, DC",
+	"distance": 705151,
+	"end": "Boston, MA, USA",
+	"destination": "Boston, MA",
+	"start": "Washington, DC, USA",
+	"duration": 25444
+},
+{
+	"origin": "Washington, DC",
+	"distance": 64175,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "Washington, DC, USA",
+	"duration": 3292
+},
+{
+	"origin": "Toronto, ON",
+	"distance": 776234,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Toronto, ON, Canada",
+	"duration": 30574
+},
+{
+	"origin": "Toronto, ON",
+	"distance": 801187,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Toronto, ON, Canada",
+	"duration": 27652
+},
+{
+	"origin": "Toronto, ON",
+	"distance": 789568,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Toronto, ON, Canada",
+	"duration": 27587
+},
+{
+	"origin": "Toronto, ON",
+	"distance": 158880,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "Toronto, ON, Canada",
+	"duration": 5952
+},
+{
+	"origin": "Toronto, ON",
+	"distance": 174527,
+	"end": "Buffalo Niagara International Airport, 4200 Genesee Street, Buffalo, NY 14225, USA",
+	"destination": "Buffalo Airport, NY",
+	"start": "Toronto, ON, Canada",
+	"duration": 6605
+},
+{
+	"origin": "Toronto, ON",
+	"distance": 739154,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "Toronto, ON, Canada",
+	"duration": 28067
+},
+{
+	"origin": "Toledo, OH",
+	"distance": 546087,
+	"end": "State College, PA, USA",
+	"destination": "State College, PA",
+	"start": "Toledo, OH, USA",
+	"duration": 19011
+},
+{
+	"origin": "Toledo, OH",
+	"distance": 375588,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "Toledo, OH, USA",
+	"duration": 12558
+},
+{
+	"origin": "Toledo, OH",
+	"distance": 904031,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Toledo, OH, USA",
+	"duration": 30715
+},
+{
+	"origin": "Toledo, OH",
+	"distance": 97369,
+	"end": "Detroit, MI, USA",
+	"destination": "Detroit, MI",
+	"start": "Toledo, OH, USA",
+	"duration": 3554
+},
+{
+	"origin": "Toledo, OH",
+	"distance": 188230,
+	"end": "Cleveland, OH, USA",
+	"destination": "Cleveland, OH",
+	"start": "Toledo, OH, USA",
+	"duration": 6636
+},
+{
+	"origin": "Toledo, OH",
+	"distance": 395564,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Toledo, OH, USA",
+	"duration": 13473
+},
+{
+	"origin": "Toledo, OH",
+	"distance": 85454,
+	"end": "Ann Arbor, MI, USA",
+	"destination": "Ann Arbor, MI",
+	"start": "Toledo, OH, USA",
+	"duration": 3323
+},
+{
+	"origin": "Texarkana, AR",
+	"distance": 444816,
+	"end": "Memphis, TN, USA",
+	"destination": "Memphis, TN",
+	"start": "Texarkana, AR, USA",
+	"duration": 14730
+},
+{
+	"origin": "Texarkana, AR",
+	"distance": 341286,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Texarkana, AR, USA",
+	"duration": 11486
+},
+{
+	"origin": "Texarkana, AR",
+	"distance": 1274617,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Texarkana, AR, USA",
+	"duration": 41905
+},
+{
+	"origin": "Texarkana, AR",
+	"distance": 1065144,
+	"end": "Champaign, IL, USA",
+	"destination": "Champaign, IL",
+	"start": "Texarkana, AR, USA",
+	"duration": 34875
+},
+{
+	"origin": "Syracuse, NY",
+	"distance": 140401,
+	"end": "Rochester, NY, USA",
+	"destination": "Rochester, NY",
+	"start": "Syracuse, NY, USA",
+	"duration": 4903
+},
+{
+	"origin": "Syracuse, NY",
+	"distance": 396455,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Syracuse, NY, USA",
+	"duration": 14098
+},
+{
+	"origin": "Storrs, CT",
+	"distance": 225728,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Storrs, Mansfield, CT, USA",
+	"duration": 9136
+},
+{
+	"origin": "Storrs, CT",
+	"distance": 42596,
+	"end": "Hartford, CT, USA",
+	"destination": "Hartford, CT",
+	"start": "Storrs, Mansfield, CT, USA",
+	"duration": 2191
+},
+{
+	"origin": "State College, PA",
+	"distance": 545031,
+	"end": "Toledo, OH, USA",
+	"destination": "Toledo, OH",
+	"start": "State College, PA, USA",
+	"duration": 18818
+},
+{
+	"origin": "State College, PA",
+	"distance": 219230,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "State College, PA, USA",
+	"duration": 8735
+},
+{
+	"origin": "State College, PA",
+	"distance": 310924,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "State College, PA, USA",
+	"duration": 11542
+},
+{
+	"origin": "State College, PA",
+	"distance": 379853,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "State College, PA, USA",
+	"duration": 13785
+},
+{
+	"origin": "State College, PA",
+	"distance": 141403,
+	"end": "Harrisburg, PA, USA",
+	"destination": "Harrisburg, PA",
+	"start": "State College, PA, USA",
+	"duration": 5660
+},
+{
+	"origin": "State College, PA",
+	"distance": 630319,
+	"end": "Detroit, MI, USA",
+	"destination": "Detroit, MI",
+	"start": "State College, PA, USA",
+	"duration": 21744
+},
+{
+	"origin": "State College, PA",
+	"distance": 384207,
+	"end": "Cleveland, OH, USA",
+	"destination": "Cleveland, OH",
+	"start": "State College, PA, USA",
+	"duration": 13941
+},
+{
+	"origin": "State College, PA",
+	"distance": 628238,
+	"end": "Ann Arbor, MI, USA",
+	"destination": "Ann Arbor, MI",
+	"start": "State College, PA, USA",
+	"duration": 21798
+},
+{
+	"origin": "St Louis, MO",
+	"distance": 456606,
+	"end": "Memphis, TN, USA",
+	"destination": "Memphis, TN",
+	"start": "St. Louis, MO, USA",
+	"duration": 14778
+},
+{
+	"origin": "St Louis, MO",
+	"distance": 398984,
+	"end": "Kansas City, MO, USA",
+	"destination": "Kansas City, MO",
+	"start": "St. Louis, MO, USA",
+	"duration": 13173
+},
+{
+	"origin": "St Louis, MO",
+	"distance": 200056,
+	"end": "Columbia, MO, USA",
+	"destination": "Columbia, MO",
+	"start": "St. Louis, MO, USA",
+	"duration": 6938
+},
+{
+	"origin": "St Louis, MO",
+	"distance": 477828,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "St. Louis, MO, USA",
+	"duration": 16317
+},
+{
+	"origin": "Sparks, NV",
+	"distance": 356460,
+	"end": "San Francisco, CA, USA",
+	"destination": "San Francisco, CA",
+	"start": "Sparks, NV, USA",
+	"duration": 12825
+},
+{
+	"origin": "Sparks, NV",
+	"distance": 216840,
+	"end": "Sacramento, CA, USA",
+	"destination": "Sacramento, CA",
+	"start": "Sparks, NV, USA",
+	"duration": 7838
+},
+{
+	"origin": "Secaucus, NJ",
+	"distance": 360011,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Secaucus, NJ, USA",
+	"duration": 13039
+},
+{
+	"origin": "Secaucus, NJ",
+	"distance": 148457,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Secaucus, NJ, USA",
+	"duration": 5767
+},
+{
+	"origin": "Secaucus, NJ",
+	"distance": 350201,
+	"end": "Boston, MA, USA",
+	"destination": "Boston, MA",
+	"start": "Secaucus, NJ, USA",
+	"duration": 12677
+},
+{
+	"origin": "Secaucus, NJ",
+	"distance": 298242,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "Secaucus, NJ, USA",
+	"duration": 10532
+},
+{
+	"origin": "Saratoga Springs, NY",
+	"distance": 294200,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Saratoga Springs, NY, USA",
+	"duration": 10875
+},
+{
+	"origin": "Saratoga Springs, NY",
+	"distance": 189286,
+	"end": "Burlington, VT, USA",
+	"destination": "Burlington, VT",
+	"start": "Saratoga Springs, NY, USA",
+	"duration": 9041
+},
+{
+	"origin": "San Jose, CA",
+	"distance": 547387,
+	"end": "Los Angeles, CA, USA",
+	"destination": "Los Angeles, CA",
+	"start": "San Jose, CA, USA",
+	"duration": 18106
+},
+{
+	"origin": "San Francisco, CA",
+	"distance": 357125,
+	"end": "Sparks, NV, USA",
+	"destination": "Sparks, NV",
+	"start": "San Francisco, CA, USA",
+	"duration": 12821
+},
+{
+	"origin": "San Francisco, CA",
+	"distance": 141382,
+	"end": "Sacramento, CA, USA",
+	"destination": "Sacramento, CA",
+	"start": "San Francisco, CA, USA",
+	"duration": 5527
+},
+{
+	"origin": "San Francisco, CA",
+	"distance": 351408,
+	"end": "Reno, NV, USA",
+	"destination": "Reno, NV",
+	"start": "San Francisco, CA, USA",
+	"duration": 12646
+},
+{
+	"origin": "San Francisco, CA",
+	"distance": 613853,
+	"end": "Los Angeles, CA, USA",
+	"destination": "Los Angeles, CA",
+	"start": "San Francisco, CA, USA",
+	"duration": 19985
+},
+{
+	"origin": "San Antonio, TX",
+	"distance": 317463,
+	"end": "Houston, TX, USA",
+	"destination": "Houston, TX",
+	"start": "San Antonio, TX, USA",
+	"duration": 10306
+},
+{
+	"origin": "San Antonio, TX",
+	"distance": 426904,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "San Antonio, TX, USA",
+	"duration": 14491
+},
+{
+	"origin": "San Antonio, TX",
+	"distance": 127893,
+	"end": "Austin, TX, USA",
+	"destination": "Austin, TX",
+	"start": "San Antonio, TX, USA",
+	"duration": 4646
+},
+{
+	"origin": "Sacramento, CA",
+	"distance": 222985,
+	"end": "Sparks, NV, USA",
+	"destination": "Sparks, NV",
+	"start": "Sacramento, CA, USA",
+	"duration": 7976
+},
+{
+	"origin": "Sacramento, CA",
+	"distance": 139955,
+	"end": "San Francisco, CA, USA",
+	"destination": "San Francisco, CA",
+	"start": "Sacramento, CA, USA",
+	"duration": 5575
+},
+{
+	"origin": "Sacramento, CA",
+	"distance": 217268,
+	"end": "Reno, NV, USA",
+	"destination": "Reno, NV",
+	"start": "Sacramento, CA, USA",
+	"duration": 7801
+},
+{
+	"origin": "Rochester, NY",
+	"distance": 140017,
+	"end": "Syracuse, NY, USA",
+	"destination": "Syracuse, NY",
+	"start": "Rochester, NY, USA",
+	"duration": 5036
+},
+{
+	"origin": "Rochester, NY",
+	"distance": 536112,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Rochester, NY, USA",
+	"duration": 18846
+},
+{
+	"origin": "Riverside, CA",
+	"distance": 374943,
+	"end": "Las Vegas, NV, USA",
+	"destination": "Las Vegas, NV",
+	"start": "Riverside, CA, USA",
+	"duration": 11840
+},
+{
+	"origin": "Ridgewood, NJ",
+	"distance": 202975,
+	"end": "Albany, NY, USA",
+	"destination": "Albany, NY",
+	"start": "Ridgewood, NJ, USA",
+	"duration": 7151
+},
+{
+	"origin": "Richmond, VA",
+	"distance": 174485,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Richmond, VA, USA",
+	"duration": 6490
+},
+{
+	"origin": "Richmond, VA",
+	"distance": 397927,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Richmond, VA, USA",
+	"duration": 14530
+},
+{
+	"origin": "Richmond, VA",
+	"distance": 327993,
+	"end": "Newark, DE, USA",
+	"destination": "Newark, DE",
+	"start": "Richmond, VA, USA",
+	"duration": 12227
+},
+{
+	"origin": "Richmond, VA",
+	"distance": 535534,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Richmond, VA, USA",
+	"duration": 19126
+},
+{
+	"origin": "Richmond, VA",
+	"distance": 123726,
+	"end": "Hampton, VA, USA",
+	"destination": "Hampton, VA",
+	"start": "Richmond, VA, USA",
+	"duration": 4448
+},
+{
+	"origin": "Richmond, VA",
+	"distance": 242400,
+	"end": "Durham, NC, USA",
+	"destination": "Durham, NC",
+	"start": "Richmond, VA, USA",
+	"duration": 8277
+},
+{
+	"origin": "Richmond, VA",
+	"distance": 469203,
+	"end": "Charlotte, NC, USA",
+	"destination": "Charlotte, NC",
+	"start": "Richmond, VA, USA",
+	"duration": 15578
+},
+{
+	"origin": "Richmond, VA",
+	"distance": 235976,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "Richmond, VA, USA",
+	"duration": 8956
+},
+{
+	"origin": "Reno, NV",
+	"distance": 351511,
+	"end": "San Francisco, CA, USA",
+	"destination": "San Francisco, CA",
+	"start": "Reno, NV, USA",
+	"duration": 12704
+},
+{
+	"origin": "Reno, NV",
+	"distance": 211891,
+	"end": "Sacramento, CA, USA",
+	"destination": "Sacramento, CA",
+	"start": "Reno, NV, USA",
+	"duration": 7717
+},
+{
+	"origin": "Providence, RI",
+	"distance": 291074,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Providence, RI, USA",
+	"duration": 11064
+},
+{
+	"origin": "Providence, RI",
+	"distance": 51531,
+	"end": "Fairhaven, MA, USA",
+	"destination": "Fairhaven, MA",
+	"start": "Providence, RI, USA",
+	"duration": 2131
+},
+{
+	"origin": "Princeton, NJ",
+	"distance": 81804,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Princeton, NJ, USA",
+	"duration": 4105
+},
+{
+	"origin": "Prairie View, TX",
+	"distance": 76582,
+	"end": "Houston, TX, USA",
+	"destination": "Houston, TX",
+	"start": "Prairie View, TX, USA",
+	"duration": 2847
+},
+{
+	"origin": "Prairie View, TX",
+	"distance": 48639,
+	"end": "Brenham, TX 77833, USA",
+	"destination": "Brenham, TX",
+	"start": "Prairie View, TX, USA",
+	"duration": 1866
+},
+{
+	"origin": "Prairie View, TX",
+	"distance": 188493,
+	"end": "Austin, TX, USA",
+	"destination": "Austin, TX",
+	"start": "Prairie View, TX, USA",
+	"duration": 7293
+},
+{
+	"origin": "Portland, ME",
+	"distance": 171805,
+	"end": "Boston, MA, USA",
+	"destination": "Boston, MA",
+	"start": "Portland, ME, USA",
+	"duration": 6403
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 395651,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 14170
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 374418,
+	"end": "Toledo, OH, USA",
+	"destination": "Toledo, OH",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 12390
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 219221,
+	"end": "State College, PA, USA",
+	"destination": "State College, PA",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 8584
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 489790,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 16937
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 595600,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 20871
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 120932,
+	"end": "Morgantown, WV, USA",
+	"destination": "Morgantown, WV",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 4851
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 327696,
+	"end": "Harrisburg, PA, USA",
+	"destination": "Harrisburg, PA",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 11695
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 459708,
+	"end": "Detroit, MI, USA",
+	"destination": "Detroit, MI",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 15316
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 213594,
+	"end": "Cleveland, OH, USA",
+	"destination": "Cleveland, OH",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 7513
+},
+{
+	"origin": "Pittsburgh, PA",
+	"distance": 457626,
+	"end": "Ann Arbor, MI, USA",
+	"destination": "Ann Arbor, MI",
+	"start": "Pittsburgh, PA, USA",
+	"duration": 15370
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 218797,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Philadelphia, PA, USA",
+	"duration": 8702
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 800668,
+	"end": "Toronto, ON, Canada",
+	"destination": "Toronto, ON",
+	"start": "Philadelphia, PA, USA",
+	"duration": 27803
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 309331,
+	"end": "State College, PA, USA",
+	"destination": "State College, PA",
+	"start": "Philadelphia, PA, USA",
+	"duration": 11580
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 151488,
+	"end": "Secaucus, NJ, USA",
+	"destination": "Secaucus, NJ",
+	"start": "Philadelphia, PA, USA",
+	"duration": 5539
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 393460,
+	"end": "Richmond, VA, USA",
+	"destination": "Richmond, VA",
+	"start": "Philadelphia, PA, USA",
+	"duration": 14300
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 490550,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "Philadelphia, PA, USA",
+	"duration": 17065
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 66268,
+	"end": "Newark, DE, USA",
+	"destination": "Newark, DE",
+	"start": "Philadelphia, PA, USA",
+	"duration": 3008
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 154954,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Philadelphia, PA, USA",
+	"duration": 6002
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 171237,
+	"end": "Harrisburg, PA, USA",
+	"destination": "Harrisburg, PA",
+	"start": "Philadelphia, PA, USA",
+	"duration": 6452
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 506228,
+	"end": "Hampton, VA, USA",
+	"destination": "Hampton, VA",
+	"start": "Philadelphia, PA, USA",
+	"duration": 17989
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 647744,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "Philadelphia, PA, USA",
+	"duration": 22283
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 497906,
+	"end": "Boston, MA, USA",
+	"destination": "Boston, MA",
+	"start": "Philadelphia, PA, USA",
+	"duration": 17848
+},
+{
+	"origin": "Philadelphia, PA",
+	"distance": 157028,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "Philadelphia, PA, USA",
+	"duration": 6195
+},
+{
+	"origin": "Orlando, FL",
+	"distance": 229888,
+	"end": "Jacksonville, FL, USA",
+	"destination": "Jacksonville, FL",
+	"start": "Orlando, FL, USA",
+	"duration": 7479
+},
+{
+	"origin": "Orlando, FL",
+	"distance": 179368,
+	"end": "Gainesville, FL, USA",
+	"destination": "Gainesville, FL",
+	"start": "Orlando, FL, USA",
+	"duration": 6097
+},
+{
+	"origin": "Orlando, FL",
+	"distance": 704854,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Orlando, FL, USA",
+	"duration": 22132
+},
+{
+	"origin": "Omaha, NE",
+	"distance": 407381,
+	"end": "Iowa City, IA, USA",
+	"destination": "Iowa City, IA",
+	"start": "Omaha, NE, USA",
+	"duration": 13630
+},
+{
+	"origin": "Omaha, NE",
+	"distance": 224655,
+	"end": "Des Moines, IA, USA",
+	"destination": "Des Moines, IA",
+	"start": "Omaha, NE, USA",
+	"duration": 7771
+},
+{
+	"origin": "Omaha, NE",
+	"distance": 760089,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Omaha, NE, USA",
+	"duration": 25392
+},
+{
+	"origin": "Oakland, CA",
+	"distance": 595554,
+	"end": "Los Angeles, CA, USA",
+	"destination": "Los Angeles, CA",
+	"start": "Oakland, CA, USA",
+	"duration": 19325
+},
+{
+	"origin": "Newark, DE",
+	"distance": 154111,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Newark, DE, USA",
+	"duration": 6406
+},
+{
+	"origin": "Newark, DE",
+	"distance": 328774,
+	"end": "Richmond, VA, USA",
+	"destination": "Richmond, VA",
+	"start": "Newark, DE, USA",
+	"duration": 12004
+},
+{
+	"origin": "Newark, DE",
+	"distance": 74274,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Newark, DE, USA",
+	"duration": 3375
+},
+{
+	"origin": "Newark, DE",
+	"distance": 211879,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Newark, DE, USA",
+	"duration": 7970
+},
+{
+	"origin": "Newark, DE",
+	"distance": 441542,
+	"end": "Hampton, VA, USA",
+	"destination": "Hampton, VA",
+	"start": "Newark, DE, USA",
+	"duration": 15693
+},
+{
+	"origin": "Newark, DE",
+	"distance": 92342,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "Newark, DE, USA",
+	"duration": 3899
+},
+{
+	"origin": "New York, NY",
+	"distance": 363649,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "New York, NY, USA",
+	"duration": 13468
+},
+{
+	"origin": "New York, NY",
+	"distance": 789976,
+	"end": "Toronto, ON, Canada",
+	"destination": "Toronto, ON",
+	"start": "New York, NY, USA",
+	"duration": 27713
+},
+{
+	"origin": "New York, NY",
+	"distance": 903770,
+	"end": "Toledo, OH, USA",
+	"destination": "Toledo, OH",
+	"start": "New York, NY, USA",
+	"duration": 30476
+},
+{
+	"origin": "New York, NY",
+	"distance": 397444,
+	"end": "Syracuse, NY, USA",
+	"destination": "Syracuse, NY",
+	"start": "New York, NY, USA",
+	"duration": 14177
+},
+{
+	"origin": "New York, NY",
+	"distance": 227392,
+	"end": "Storrs, Mansfield, CT, USA",
+	"destination": "Storrs, CT",
+	"start": "New York, NY, USA",
+	"duration": 9072
+},
+{
+	"origin": "New York, NY",
+	"distance": 381679,
+	"end": "State College, PA, USA",
+	"destination": "State College, PA",
+	"start": "New York, NY, USA",
+	"duration": 13791
+},
+{
+	"origin": "New York, NY",
+	"distance": 294988,
+	"end": "Saratoga Springs, NY, USA",
+	"destination": "Saratoga Springs, NY",
+	"start": "New York, NY, USA",
+	"duration": 10797
+},
+{
+	"origin": "New York, NY",
+	"distance": 537389,
+	"end": "Rochester, NY, USA",
+	"destination": "Rochester, NY",
+	"start": "New York, NY, USA",
+	"duration": 18753
+},
+{
+	"origin": "New York, NY",
+	"distance": 538313,
+	"end": "Richmond, VA, USA",
+	"destination": "Richmond, VA",
+	"start": "New York, NY, USA",
+	"duration": 19066
+},
+{
+	"origin": "New York, NY",
+	"distance": 291901,
+	"end": "Providence, RI, USA",
+	"destination": "Providence, RI",
+	"start": "New York, NY, USA",
+	"duration": 10964
+},
+{
+	"origin": "New York, NY",
+	"distance": 84019,
+	"end": "Princeton, NJ, USA",
+	"destination": "Princeton, NJ",
+	"start": "New York, NY, USA",
+	"duration": 3973
+},
+{
+	"origin": "New York, NY",
+	"distance": 594219,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "New York, NY, USA",
+	"duration": 20781
+},
+{
+	"origin": "New York, NY",
+	"distance": 152095,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "New York, NY, USA",
+	"duration": 6196
+},
+{
+	"origin": "New York, NY",
+	"distance": 211118,
+	"end": "Newark, DE, USA",
+	"destination": "Newark, DE",
+	"start": "New York, NY, USA",
+	"duration": 7774
+},
+{
+	"origin": "New York, NY",
+	"distance": 130260,
+	"end": "New Haven, CT, USA",
+	"destination": "New Haven, CT",
+	"start": "New York, NY, USA",
+	"duration": 5600
+},
+{
+	"origin": "New York, NY",
+	"distance": 57518,
+	"end": "New Brunswick, NJ, USA",
+	"destination": "New Brunswick, NJ",
+	"start": "New York, NY, USA",
+	"duration": 2709
+},
+{
+	"origin": "New York, NY",
+	"distance": 1135737,
+	"end": "Knoxville, TN, USA",
+	"destination": "Knoxville, TN",
+	"start": "New York, NY, USA",
+	"duration": 37686
+},
+{
+	"origin": "New York, NY",
+	"distance": 188755,
+	"end": "Hartford, CT, USA",
+	"destination": "Hartford, CT",
+	"start": "New York, NY, USA",
+	"duration": 7454
+},
+{
+	"origin": "New York, NY",
+	"distance": 651080,
+	"end": "Hampton, VA, USA",
+	"destination": "Hampton, VA",
+	"start": "New York, NY, USA",
+	"duration": 22755
+},
+{
+	"origin": "New York, NY",
+	"distance": 339690,
+	"end": "Fairhaven, MA, USA",
+	"destination": "Fairhaven, MA",
+	"start": "New York, NY, USA",
+	"duration": 12625
+},
+{
+	"origin": "New York, NY",
+	"distance": 778583,
+	"end": "Durham, NC, USA",
+	"destination": "Durham, NC",
+	"start": "New York, NY, USA",
+	"duration": 27017
+},
+{
+	"origin": "New York, NY",
+	"distance": 989059,
+	"end": "Detroit, MI, USA",
+	"destination": "Detroit, MI",
+	"start": "New York, NY, USA",
+	"duration": 33402
+},
+{
+	"origin": "New York, NY",
+	"distance": 742946,
+	"end": "Cleveland, OH, USA",
+	"destination": "Cleveland, OH",
+	"start": "New York, NY, USA",
+	"duration": 25599
+},
+{
+	"origin": "New York, NY",
+	"distance": 777168,
+	"end": "Christiansburg, VA, USA",
+	"destination": "Christiansburg, VA",
+	"start": "New York, NY, USA",
+	"duration": 26195
+},
+{
+	"origin": "New York, NY",
+	"distance": 1005386,
+	"end": "Charlotte, NC, USA",
+	"destination": "Charlotte, NC",
+	"start": "New York, NY, USA",
+	"duration": 34318
+},
+{
+	"origin": "New York, NY",
+	"distance": 482612,
+	"end": "Burlington, VT, USA",
+	"destination": "Burlington, VT",
+	"start": "New York, NY, USA",
+	"duration": 19307
+},
+{
+	"origin": "New York, NY",
+	"distance": 637052,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "New York, NY, USA",
+	"duration": 22193
+},
+{
+	"origin": "New York, NY",
+	"distance": 629935,
+	"end": "Buffalo Niagara International Airport, 4200 Genesee Street, Buffalo, NY 14225, USA",
+	"destination": "Buffalo Airport, NY",
+	"start": "New York, NY, USA",
+	"duration": 21804
+},
+{
+	"origin": "New York, NY",
+	"distance": 347259,
+	"end": "Boston, MA, USA",
+	"destination": "Boston, MA",
+	"start": "New York, NY, USA",
+	"duration": 12800
+},
+{
+	"origin": "New York, NY",
+	"distance": 285553,
+	"end": "Binghamton, NY, USA",
+	"destination": "Binghamton, NY",
+	"start": "New York, NY, USA",
+	"duration": 10570
+},
+{
+	"origin": "New York, NY",
+	"distance": 301880,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "New York, NY, USA",
+	"duration": 10961
+},
+{
+	"origin": "New York, NY",
+	"distance": 204250,
+	"end": "Atlantic City, NJ, USA",
+	"destination": "Atlantic City, NJ",
+	"start": "New York, NY, USA",
+	"duration": 7513
+},
+{
+	"origin": "Atlantic City, NJ, USA",
+	"distance": 204250,
+	"end": "New York, NY",
+	"start": "Atlantic City, NJ",
+	"destination": "New York, NY, USA",
+	"duration": 7513
+},
+{
+	"origin": "New York, NY",
+	"distance": 986977,
+	"end": "Ann Arbor, MI, USA",
+	"destination": "Ann Arbor, MI",
+	"start": "New York, NY, USA",
+	"duration": 33456
+},
+{
+	"origin": "New York, NY",
+	"distance": 269626,
+	"end": "Amherst, MA, USA",
+	"destination": "Amherst, MA",
+	"start": "New York, NY, USA",
+	"duration": 10600
+},
+{
+	"origin": "New York, NY",
+	"distance": 241318,
+	"end": "Albany, NY, USA",
+	"destination": "Albany, NY",
+	"start": "New York, NY, USA",
+	"duration": 8882
+},
+{
+	"origin": "New Orleans, LA",
+	"distance": 497262,
+	"end": "Montgomery, AL, USA",
+	"destination": "Montgomery, AL",
+	"start": "New Orleans, LA, USA",
+	"duration": 15828
+},
+{
+	"origin": "New Orleans, LA",
+	"distance": 231857,
+	"end": "Mobile, AL, USA",
+	"destination": "Mobile, AL",
+	"start": "New Orleans, LA, USA",
+	"duration": 7636
+},
+{
+	"origin": "New Orleans, LA",
+	"distance": 559854,
+	"end": "Houston, TX, USA",
+	"destination": "Houston, TX",
+	"start": "New Orleans, LA, USA",
+	"duration": 18447
+},
+{
+	"origin": "New Orleans, LA",
+	"distance": 754917,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "New Orleans, LA, USA",
+	"duration": 23964
+},
+{
+	"origin": "New Haven, CT",
+	"distance": 130147,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "New Haven, CT, USA",
+	"duration": 5659
+},
+{
+	"origin": "New Haven, CT",
+	"distance": 63023,
+	"end": "Hartford, CT, USA",
+	"destination": "Hartford, CT",
+	"start": "New Haven, CT, USA",
+	"duration": 2478
+},
+{
+	"origin": "New Haven, CT",
+	"distance": 221526,
+	"end": "Boston, MA, USA",
+	"destination": "Boston, MA",
+	"start": "New Haven, CT, USA",
+	"duration": 7825
+},
+{
+	"origin": "New Brunswick, NJ",
+	"distance": 57721,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "New Brunswick, NJ, USA",
+	"duration": 2782
+},
+{
+	"origin": "Nashville, TN",
+	"distance": 279897,
+	"end": "Louisville, KY, USA",
+	"destination": "Louisville, KY",
+	"start": "Nashville, TN, USA",
+	"duration": 9338
+},
+{
+	"origin": "Nashville, TN",
+	"distance": 461781,
+	"end": "Indianapolis, IN, USA",
+	"destination": "Indianapolis, IN",
+	"start": "Nashville, TN, USA",
+	"duration": 15207
+},
+{
+	"origin": "Nashville, TN",
+	"distance": 756061,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Nashville, TN, USA",
+	"duration": 25101
+},
+{
+	"origin": "Nashville, TN",
+	"distance": 213245,
+	"end": "Chattanooga, TN, USA",
+	"destination": "Chattanooga, TN",
+	"start": "Nashville, TN, USA",
+	"duration": 7266
+},
+{
+	"origin": "Nashville, TN",
+	"distance": 398915,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Nashville, TN, USA",
+	"duration": 13425
+},
+{
+	"origin": "Morgantown, WV",
+	"distance": 345458,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Morgantown, WV, USA",
+	"duration": 12271
+},
+{
+	"origin": "Morgantown, WV",
+	"distance": 120535,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "Morgantown, WV, USA",
+	"duration": 4723
+},
+{
+	"origin": "Montgomery, AL",
+	"distance": 499971,
+	"end": "New Orleans, LA, USA",
+	"destination": "New Orleans, LA",
+	"start": "Montgomery, AL, USA",
+	"duration": 16028
+},
+{
+	"origin": "Montgomery, AL",
+	"distance": 271237,
+	"end": "Mobile, AL, USA",
+	"destination": "Mobile, AL",
+	"start": "Montgomery, AL, USA",
+	"duration": 8698
+},
+{
+	"origin": "Montgomery, AL",
+	"distance": 257702,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Montgomery, AL, USA",
+	"duration": 8336
+},
+{
+	"origin": "Mobile, AL",
+	"distance": 234337,
+	"end": "New Orleans, LA, USA",
+	"destination": "New Orleans, LA",
+	"start": "Mobile, AL, USA",
+	"duration": 7778
+},
+{
+	"origin": "Mobile, AL",
+	"distance": 270759,
+	"end": "Montgomery, AL, USA",
+	"destination": "Montgomery, AL",
+	"start": "Mobile, AL, USA",
+	"duration": 8690
+},
+{
+	"origin": "Mobile, AL",
+	"distance": 528414,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Mobile, AL, USA",
+	"duration": 16825
+},
+{
+	"origin": "Minneapolis, MN",
+	"distance": 548908,
+	"end": "Milwaukee, WI, USA",
+	"destination": "Milwaukee, WI",
+	"start": "Minneapolis, MN, USA",
+	"duration": 18687
+},
+{
+	"origin": "Minneapolis, MN",
+	"distance": 439787,
+	"end": "Madison, WI, USA",
+	"destination": "Madison, WI",
+	"start": "Minneapolis, MN, USA",
+	"duration": 15548
+},
+{
+	"origin": "Minneapolis, MN",
+	"distance": 437164,
+	"end": "Madison, WI, USA",
+	"destination": "Madison, U of Wisc, WI",
+	"start": "Minneapolis, MN, USA",
+	"duration": 15929
+},
+{
+	"origin": "Minneapolis, MN",
+	"distance": 663836,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Minneapolis, MN, USA",
+	"duration": 23057
+},
+{
+	"origin": "Milwaukee, WI",
+	"distance": 542369,
+	"end": "Minneapolis, MN, USA",
+	"destination": "Minneapolis, MN",
+	"start": "Milwaukee, WI, USA",
+	"duration": 18474
+},
+{
+	"origin": "Milwaukee, WI",
+	"distance": 148112,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Milwaukee, WI, USA",
+	"duration": 5872
+},
+{
+	"origin": "Memphis, TN",
+	"distance": 445394,
+	"end": "Texarkana, AR, USA",
+	"destination": "Texarkana, AR",
+	"start": "Memphis, TN, USA",
+	"duration": 14918
+},
+{
+	"origin": "Memphis, TN",
+	"distance": 456478,
+	"end": "St. Louis, MO, USA",
+	"destination": "St Louis, MO",
+	"start": "Memphis, TN, USA",
+	"duration": 14780
+},
+{
+	"origin": "Memphis, TN",
+	"distance": 220936,
+	"end": "Little Rock, AR, USA",
+	"destination": "Little Rock, AR",
+	"start": "Memphis, TN, USA",
+	"duration": 7532
+},
+{
+	"origin": "Memphis, TN",
+	"distance": 780132,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Memphis, TN, USA",
+	"duration": 25647
+},
+{
+	"origin": "Memphis, TN",
+	"distance": 857723,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Memphis, TN, USA",
+	"duration": 28454
+},
+{
+	"origin": "Memphis, TN",
+	"distance": 648246,
+	"end": "Champaign, IL, USA",
+	"destination": "Champaign, IL",
+	"start": "Memphis, TN, USA",
+	"duration": 21424
+},
+{
+	"origin": "Memphis, TN",
+	"distance": 382675,
+	"end": "Birmingham, AL, USA",
+	"destination": "Birmingham, AL",
+	"start": "Memphis, TN, USA",
+	"duration": 12935
+},
+{
+	"origin": "Memphis, TN",
+	"distance": 623061,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Memphis, TN, USA",
+	"duration": 20962
+},
+{
+	"origin": "Madison, WI",
+	"distance": 439306,
+	"end": "Minneapolis, MN, USA",
+	"destination": "Minneapolis, MN",
+	"start": "Madison, WI, USA",
+	"duration": 15462
+},
+{
+	"origin": "Madison, WI",
+	"distance": 238139,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Madison, WI, USA",
+	"duration": 9015
+},
+{
+	"origin": "Madison, U of Wisc, WI",
+	"distance": 431625,
+	"end": "Minneapolis, MN, USA",
+	"destination": "Minneapolis, MN",
+	"start": "Madison, WI, USA",
+	"duration": 15710
+},
+{
+	"origin": "Madison, U of Wisc, WI",
+	"distance": 247296,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Madison, WI, USA",
+	"duration": 9366
+},
+{
+	"origin": "Louisville, KY",
+	"distance": 280251,
+	"end": "Nashville, TN, USA",
+	"destination": "Nashville, TN",
+	"start": "Louisville, KY, USA",
+	"duration": 9261
+},
+{
+	"origin": "Louisville, KY",
+	"distance": 183721,
+	"end": "Indianapolis, IN, USA",
+	"destination": "Indianapolis, IN",
+	"start": "Louisville, KY, USA",
+	"duration": 6262
+},
+{
+	"origin": "Louisville, KY",
+	"distance": 478004,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Louisville, KY, USA",
+	"duration": 16156
+},
+{
+	"origin": "Los Angeles, CA",
+	"distance": 547429,
+	"end": "San Jose, CA, USA",
+	"destination": "San Jose, CA",
+	"start": "Los Angeles, CA, USA",
+	"duration": 18150
+},
+{
+	"origin": "Los Angeles, CA",
+	"distance": 614509,
+	"end": "San Francisco, CA, USA",
+	"destination": "San Francisco, CA",
+	"start": "Los Angeles, CA, USA",
+	"duration": 20183
+},
+{
+	"origin": "Los Angeles, CA",
+	"distance": 595931,
+	"end": "Oakland, CA, USA",
+	"destination": "Oakland, CA",
+	"start": "Los Angeles, CA, USA",
+	"duration": 19410
+},
+{
+	"origin": "Los Angeles, CA",
+	"distance": 426128,
+	"end": "Las Vegas, NV, USA",
+	"destination": "Las Vegas, NV",
+	"start": "Los Angeles, CA, USA",
+	"duration": 13666
+},
+{
+	"origin": "Little Rock, AR",
+	"distance": 221192,
+	"end": "Memphis, TN, USA",
+	"destination": "Memphis, TN",
+	"start": "Little Rock, AR, USA",
+	"duration": 7535
+},
+{
+	"origin": "Little Rock, AR",
+	"distance": 565384,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Little Rock, AR, USA",
+	"duration": 18604
+},
+{
+	"origin": "Little Rock, AR",
+	"distance": 1050995,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Little Rock, AR, USA",
+	"duration": 34710
+},
+{
+	"origin": "Little Rock, AR",
+	"distance": 841518,
+	"end": "Champaign, IL, USA",
+	"destination": "Champaign, IL",
+	"start": "Little Rock, AR, USA",
+	"duration": 27680
+},
+{
+	"origin": "Little Rock, AR",
+	"distance": 600571,
+	"end": "Birmingham, AL, USA",
+	"destination": "Birmingham, AL",
+	"start": "Little Rock, AR, USA",
+	"duration": 20137
+},
+{
+	"origin": "Little Rock, AR",
+	"distance": 840955,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Little Rock, AR, USA",
+	"duration": 28164
+},
+{
+	"origin": "Las Vegas, NV",
+	"distance": 375904,
+	"end": "Riverside, CA, USA",
+	"destination": "Riverside, CA",
+	"start": "Las Vegas, NV, USA",
+	"duration": 12107
+},
+{
+	"origin": "Las Vegas, NV",
+	"distance": 427437,
+	"end": "Los Angeles, CA, USA",
+	"destination": "Los Angeles, CA",
+	"start": "Las Vegas, NV, USA",
+	"duration": 14002
+},
+{
+	"origin": "Knoxville, TN",
+	"distance": 783720,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Knoxville, TN, USA",
+	"duration": 25897
+},
+{
+	"origin": "Knoxville, TN",
+	"distance": 1135917,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Knoxville, TN, USA",
+	"duration": 37728
+},
+{
+	"origin": "Knoxville, TN",
+	"distance": 574675,
+	"end": "Columbus, OH, USA",
+	"destination": "Columbus, OH",
+	"start": "Knoxville, TN, USA",
+	"duration": 18832
+},
+{
+	"origin": "Knoxville, TN",
+	"distance": 403485,
+	"end": "Cincinnati, OH, USA",
+	"destination": "Cincinnati, OH",
+	"start": "Knoxville, TN, USA",
+	"duration": 13128
+},
+{
+	"origin": "Knoxville, TN",
+	"distance": 362044,
+	"end": "Christiansburg, VA, USA",
+	"destination": "Christiansburg, VA",
+	"start": "Knoxville, TN, USA",
+	"duration": 11932
+},
+{
+	"origin": "Knoxville, TN",
+	"distance": 180471,
+	"end": "Chattanooga, TN, USA",
+	"destination": "Chattanooga, TN",
+	"start": "Knoxville, TN, USA",
+	"duration": 6109
+},
+{
+	"origin": "Knoxville, TN",
+	"distance": 1098604,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "Knoxville, TN, USA",
+	"duration": 36672
+},
+{
+	"origin": "Knoxville, TN",
+	"distance": 344169,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Knoxville, TN, USA",
+	"duration": 11438
+},
+{
+	"origin": "Kansas City, MO",
+	"distance": 398588,
+	"end": "St. Louis, MO, USA",
+	"destination": "St Louis, MO",
+	"start": "Kansas City, MO, USA",
+	"duration": 13222
+},
+{
+	"origin": "Kansas City, MO",
+	"distance": 201361,
+	"end": "Columbia, MO, USA",
+	"destination": "Columbia, MO",
+	"start": "Kansas City, MO, USA",
+	"duration": 6740
+},
+{
+	"origin": "Kansas City, MO",
+	"distance": 820273,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Kansas City, MO, USA",
+	"duration": 27742
+},
+{
+	"origin": "Jacksonville, FL",
+	"distance": 226644,
+	"end": "Orlando, FL, USA",
+	"destination": "Orlando, FL",
+	"start": "Jacksonville, FL, USA",
+	"duration": 7570
+},
+{
+	"origin": "Jacksonville, FL",
+	"distance": 556712,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Jacksonville, FL, USA",
+	"duration": 17926
+},
+{
+	"origin": "Iowa City, IA",
+	"distance": 406373,
+	"end": "Omaha, NE, USA",
+	"destination": "Omaha, NE",
+	"start": "Iowa City, IA, USA",
+	"duration": 13611
+},
+{
+	"origin": "Iowa City, IA",
+	"distance": 183113,
+	"end": "Des Moines, IA, USA",
+	"destination": "Des Moines, IA",
+	"start": "Iowa City, IA, USA",
+	"duration": 6213
+},
+{
+	"origin": "Iowa City, IA",
+	"distance": 358890,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Iowa City, IA, USA",
+	"duration": 12447
+},
+{
+	"origin": "Indianapolis, IN",
+	"distance": 462367,
+	"end": "Nashville, TN, USA",
+	"destination": "Nashville, TN",
+	"start": "Indianapolis, IN, USA",
+	"duration": 15235
+},
+{
+	"origin": "Indianapolis, IN",
+	"distance": 184063,
+	"end": "Louisville, KY, USA",
+	"destination": "Louisville, KY",
+	"start": "Indianapolis, IN, USA",
+	"duration": 6451
+},
+{
+	"origin": "Indianapolis, IN",
+	"distance": 281089,
+	"end": "Columbus, OH, USA",
+	"destination": "Columbus, OH",
+	"start": "Indianapolis, IN, USA",
+	"duration": 9689
+},
+{
+	"origin": "Indianapolis, IN",
+	"distance": 180556,
+	"end": "Cincinnati, OH, USA",
+	"destination": "Cincinnati, OH",
+	"start": "Indianapolis, IN, USA",
+	"duration": 6340
+},
+{
+	"origin": "Indianapolis, IN",
+	"distance": 293882,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Indianapolis, IN, USA",
+	"duration": 10334
+},
+{
+	"origin": "Houston, TX",
+	"distance": 317688,
+	"end": "San Antonio, TX, USA",
+	"destination": "San Antonio, TX",
+	"start": "Houston, TX, USA",
+	"duration": 10353
+},
+{
+	"origin": "Houston, TX",
+	"distance": 76297,
+	"end": "Prairie View, TX, USA",
+	"destination": "Prairie View, TX",
+	"start": "Houston, TX, USA",
+	"duration": 2785
+},
+{
+	"origin": "Houston, TX",
+	"distance": 559484,
+	"end": "New Orleans, LA, USA",
+	"destination": "New Orleans, LA",
+	"start": "Houston, TX, USA",
+	"duration": 18479
+},
+{
+	"origin": "Houston, TX",
+	"distance": 421823,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Houston, TX, USA",
+	"duration": 13988
+},
+{
+	"origin": "Houston, TX",
+	"distance": 122307,
+	"end": "Brenham, TX 77833, USA",
+	"destination": "Brenham, TX",
+	"start": "Houston, TX, USA",
+	"duration": 4351
+},
+{
+	"origin": "Houston, TX",
+	"distance": 261860,
+	"end": "Austin, TX, USA",
+	"destination": "Austin, TX",
+	"start": "Houston, TX, USA",
+	"duration": 9470
+},
+{
+	"origin": "Hartford, CT",
+	"distance": 44717,
+	"end": "Storrs, Mansfield, CT, USA",
+	"destination": "Storrs, CT",
+	"start": "Hartford, CT, USA",
+	"duration": 2050
+},
+{
+	"origin": "Hartford, CT",
+	"distance": 188919,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Hartford, CT, USA",
+	"duration": 7473
+},
+{
+	"origin": "Hartford, CT",
+	"distance": 62853,
+	"end": "New Haven, CT, USA",
+	"destination": "New Haven, CT",
+	"start": "Hartford, CT, USA",
+	"duration": 2479
+},
+{
+	"origin": "Hartford, CT",
+	"distance": 379564,
+	"end": "Burlington, VT, USA",
+	"destination": "Burlington, VT",
+	"start": "Hartford, CT, USA",
+	"duration": 12793
+},
+{
+	"origin": "Hartford, CT",
+	"distance": 164583,
+	"end": "Boston, MA, USA",
+	"destination": "Boston, MA",
+	"start": "Hartford, CT, USA",
+	"duration": 5778
+},
+{
+	"origin": "Hartford, CT",
+	"distance": 83993,
+	"end": "Amherst, MA, USA",
+	"destination": "Amherst, MA",
+	"start": "Hartford, CT, USA",
+	"duration": 3473
+},
+{
+	"origin": "Harrisburg, PA",
+	"distance": 139223,
+	"end": "State College, PA, USA",
+	"destination": "State College, PA",
+	"start": "Harrisburg, PA, USA",
+	"duration": 5603
+},
+{
+	"origin": "Harrisburg, PA",
+	"distance": 329812,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "Harrisburg, PA, USA",
+	"duration": 11664
+},
+{
+	"origin": "Harrisburg, PA",
+	"distance": 171172,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Harrisburg, PA, USA",
+	"duration": 6420
+},
+{
+	"origin": "Hampton, VA",
+	"distance": 286705,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Hampton, VA, USA",
+	"duration": 10116
+},
+{
+	"origin": "Hampton, VA",
+	"distance": 123348,
+	"end": "Richmond, VA, USA",
+	"destination": "Richmond, VA",
+	"start": "Hampton, VA, USA",
+	"duration": 4489
+},
+{
+	"origin": "Hampton, VA",
+	"distance": 510147,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Hampton, VA, USA",
+	"duration": 18156
+},
+{
+	"origin": "Hampton, VA",
+	"distance": 440213,
+	"end": "Newark, DE, USA",
+	"destination": "Newark, DE",
+	"start": "Hampton, VA, USA",
+	"duration": 15853
+},
+{
+	"origin": "Hampton, VA",
+	"distance": 647754,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Hampton, VA, USA",
+	"duration": 22752
+},
+{
+	"origin": "Hampton, VA",
+	"distance": 348197,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "Hampton, VA, USA",
+	"duration": 12582
+},
+{
+	"origin": "Grand Rapids, MI",
+	"distance": 115986,
+	"end": "East Lansing, MI, USA",
+	"destination": "East Lansing, MI",
+	"start": "Grand Rapids, MI, USA",
+	"duration": 3997
+},
+{
+	"origin": "Grand Rapids, MI",
+	"distance": 253377,
+	"end": "Detroit, MI, USA",
+	"destination": "Detroit, MI",
+	"start": "Grand Rapids, MI, USA",
+	"duration": 8221
+},
+{
+	"origin": "Grand Rapids, MI",
+	"distance": 288066,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Grand Rapids, MI, USA",
+	"duration": 9680
+},
+{
+	"origin": "Gainesville, FL",
+	"distance": 188332,
+	"end": "Orlando, FL, USA",
+	"destination": "Orlando, FL",
+	"start": "Gainesville, FL, USA",
+	"duration": 6345
+},
+{
+	"origin": "Gainesville, FL",
+	"distance": 532729,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Gainesville, FL, USA",
+	"duration": 17257
+},
+{
+	"origin": "Fairhaven, MA",
+	"distance": 53667,
+	"end": "Providence, RI, USA",
+	"destination": "Providence, RI",
+	"start": "Fairhaven, MA, USA",
+	"duration": 2218
+},
+{
+	"origin": "Fairhaven, MA",
+	"distance": 340204,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Fairhaven, MA, USA",
+	"duration": 12739
+},
+{
+	"origin": "East Lansing, MI",
+	"distance": 116645,
+	"end": "Grand Rapids, MI, USA",
+	"destination": "Grand Rapids, MI",
+	"start": "East Lansing, MI, USA",
+	"duration": 4062
+},
+{
+	"origin": "East Lansing, MI",
+	"distance": 144725,
+	"end": "Detroit, MI, USA",
+	"destination": "Detroit, MI",
+	"start": "East Lansing, MI, USA",
+	"duration": 5032
+},
+{
+	"origin": "East Lansing, MI",
+	"distance": 358278,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "East Lansing, MI, USA",
+	"duration": 11969
+},
+{
+	"origin": "Durham, NC",
+	"distance": 415279,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Durham, NC, USA",
+	"duration": 14314
+},
+{
+	"origin": "Durham, NC",
+	"distance": 242360,
+	"end": "Richmond, VA, USA",
+	"destination": "Richmond, VA",
+	"start": "Durham, NC, USA",
+	"duration": 8179
+},
+{
+	"origin": "Durham, NC",
+	"distance": 776328,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Durham, NC, USA",
+	"duration": 26950
+},
+{
+	"origin": "Durham, NC",
+	"distance": 230589,
+	"end": "Charlotte, NC, USA",
+	"destination": "Charlotte, NC",
+	"start": "Durham, NC, USA",
+	"duration": 7976
+},
+{
+	"origin": "Detroit, MI",
+	"distance": 97701,
+	"end": "Toledo, OH, USA",
+	"destination": "Toledo, OH",
+	"start": "Detroit, MI, USA",
+	"duration": 3505
+},
+{
+	"origin": "Detroit, MI",
+	"distance": 630495,
+	"end": "State College, PA, USA",
+	"destination": "State College, PA",
+	"start": "Detroit, MI, USA",
+	"duration": 21799
+},
+{
+	"origin": "Detroit, MI",
+	"distance": 459996,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "Detroit, MI, USA",
+	"duration": 15346
+},
+{
+	"origin": "Detroit, MI",
+	"distance": 988439,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Detroit, MI, USA",
+	"duration": 33503
+},
+{
+	"origin": "Detroit, MI",
+	"distance": 253955,
+	"end": "Grand Rapids, MI, USA",
+	"destination": "Grand Rapids, MI",
+	"start": "Detroit, MI, USA",
+	"duration": 8329
+},
+{
+	"origin": "Detroit, MI",
+	"distance": 144432,
+	"end": "East Lansing, MI, USA",
+	"destination": "East Lansing, MI",
+	"start": "Detroit, MI, USA",
+	"duration": 4981
+},
+{
+	"origin": "Detroit, MI",
+	"distance": 272638,
+	"end": "Cleveland, OH, USA",
+	"destination": "Cleveland, OH",
+	"start": "Detroit, MI, USA",
+	"duration": 9424
+},
+{
+	"origin": "Detroit, MI",
+	"distance": 455104,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Detroit, MI, USA",
+	"duration": 14953
+},
+{
+	"origin": "Detroit, MI",
+	"distance": 69970,
+	"end": "Ann Arbor, MI, USA",
+	"destination": "Ann Arbor, MI",
+	"start": "Detroit, MI, USA",
+	"duration": 2696
+},
+{
+	"origin": "Des Moines, IA",
+	"distance": 224175,
+	"end": "Omaha, NE, USA",
+	"destination": "Omaha, NE",
+	"start": "Des Moines, IA, USA",
+	"duration": 7709
+},
+{
+	"origin": "Des Moines, IA",
+	"distance": 183046,
+	"end": "Iowa City, IA, USA",
+	"destination": "Iowa City, IA",
+	"start": "Des Moines, IA, USA",
+	"duration": 6289
+},
+{
+	"origin": "Des Moines, IA",
+	"distance": 535754,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Des Moines, IA, USA",
+	"duration": 18051
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 343831,
+	"end": "Texarkana, AR, USA",
+	"destination": "Texarkana, AR",
+	"start": "Fort Worth, TX, USA",
+	"duration": 11542
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 427273,
+	"end": "San Antonio, TX, USA",
+	"destination": "San Antonio, TX",
+	"start": "Fort Worth, TX, USA",
+	"duration": 14503
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 782488,
+	"end": "Memphis, TN, USA",
+	"destination": "Memphis, TN",
+	"start": "Fort Worth, TX, USA",
+	"duration": 25528
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 568188,
+	"end": "Little Rock, AR, USA",
+	"destination": "Little Rock, AR",
+	"start": "Fort Worth, TX, USA",
+	"duration": 18512
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 421344,
+	"end": "Houston, TX, USA",
+	"destination": "Houston, TX",
+	"start": "Fort Worth, TX, USA",
+	"duration": 13826
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 0,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Fort Worth, TX, USA",
+	"duration": 0
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 1534854,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Fort Worth, TX, USA",
+	"duration": 52024
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 1402816,
+	"end": "Champaign, IL, USA",
+	"destination": "Champaign, IL",
+	"start": "Fort Worth, TX, USA",
+	"duration": 45673
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 1081809,
+	"end": "Birmingham, AL, USA",
+	"destination": "Birmingham, AL",
+	"start": "Fort Worth, TX, USA",
+	"duration": 34690
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 301302,
+	"end": "Austin, TX, USA",
+	"destination": "Austin, TX",
+	"start": "Fort Worth, TX, USA",
+	"duration": 10240
+},
+{
+	"origin": "Dallas/Fort Worth, TX",
+	"distance": 1312916,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Fort Worth, TX, USA",
+	"duration": 42279
+},
+{
+	"origin": "Columbus, OH",
+	"distance": 575672,
+	"end": "Knoxville, TN, USA",
+	"destination": "Knoxville, TN",
+	"start": "Columbus, OH, USA",
+	"duration": 18878
+},
+{
+	"origin": "Columbus, OH",
+	"distance": 282880,
+	"end": "Indianapolis, IN, USA",
+	"destination": "Indianapolis, IN",
+	"start": "Columbus, OH, USA",
+	"duration": 9728
+},
+{
+	"origin": "Columbus, OH",
+	"distance": 171619,
+	"end": "Cincinnati, OH, USA",
+	"destination": "Cincinnati, OH",
+	"start": "Columbus, OH, USA",
+	"duration": 6120
+},
+{
+	"origin": "Columbus, OH",
+	"distance": 572741,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Columbus, OH, USA",
+	"duration": 19400
+},
+{
+	"origin": "Columbus, OH",
+	"distance": 749595,
+	"end": "Chattanooga, TN, USA",
+	"destination": "Chattanooga, TN",
+	"start": "Columbus, OH, USA",
+	"duration": 24523
+},
+{
+	"origin": "Columbus, OH",
+	"distance": 524946,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "Columbus, OH, USA",
+	"duration": 18338
+},
+{
+	"origin": "Columbus, OH",
+	"distance": 913292,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Columbus, OH, USA",
+	"duration": 29852
+},
+{
+	"origin": "Columbia, MO",
+	"distance": 200461,
+	"end": "St. Louis, MO, USA",
+	"destination": "St Louis, MO",
+	"start": "Columbia, MO, USA",
+	"duration": 6868
+},
+{
+	"origin": "Columbia, MO",
+	"distance": 201660,
+	"end": "Kansas City, MO, USA",
+	"destination": "Kansas City, MO",
+	"start": "Columbia, MO, USA",
+	"duration": 6761
+},
+{
+	"origin": "Columbia, MO",
+	"distance": 665127,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Columbia, MO, USA",
+	"duration": 22379
+},
+{
+	"origin": "Cleveland, OH",
+	"distance": 187235,
+	"end": "Toledo, OH, USA",
+	"destination": "Toledo, OH",
+	"start": "Cleveland, OH, USA",
+	"duration": 6557
+},
+{
+	"origin": "Cleveland, OH",
+	"distance": 384201,
+	"end": "State College, PA, USA",
+	"destination": "State College, PA",
+	"start": "Cleveland, OH, USA",
+	"duration": 13978
+},
+{
+	"origin": "Cleveland, OH",
+	"distance": 213702,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "Cleveland, OH, USA",
+	"duration": 7525
+},
+{
+	"origin": "Cleveland, OH",
+	"distance": 742145,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Cleveland, OH, USA",
+	"duration": 25682
+},
+{
+	"origin": "Cleveland, OH",
+	"distance": 272524,
+	"end": "Detroit, MI, USA",
+	"destination": "Detroit, MI",
+	"start": "Cleveland, OH, USA",
+	"duration": 9483
+},
+{
+	"origin": "Cleveland, OH",
+	"distance": 555085,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Cleveland, OH, USA",
+	"duration": 18728
+},
+{
+	"origin": "Cleveland, OH",
+	"distance": 270442,
+	"end": "Ann Arbor, MI, USA",
+	"destination": "Ann Arbor, MI",
+	"start": "Cleveland, OH, USA",
+	"duration": 9537
+},
+{
+	"origin": "Cincinnati, OH",
+	"distance": 404140,
+	"end": "Knoxville, TN, USA",
+	"destination": "Knoxville, TN",
+	"start": "Cincinnati, OH, USA",
+	"duration": 13146
+},
+{
+	"origin": "Cincinnati, OH",
+	"distance": 180232,
+	"end": "Indianapolis, IN, USA",
+	"destination": "Indianapolis, IN",
+	"start": "Cincinnati, OH, USA",
+	"duration": 6367
+},
+{
+	"origin": "Cincinnati, OH",
+	"distance": 171704,
+	"end": "Columbus, OH, USA",
+	"destination": "Columbus, OH",
+	"start": "Cincinnati, OH, USA",
+	"duration": 6049
+},
+{
+	"origin": "Cincinnati, OH",
+	"distance": 474994,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Cincinnati, OH, USA",
+	"duration": 16241
+},
+{
+	"origin": "Cincinnati, OH",
+	"distance": 578063,
+	"end": "Chattanooga, TN, USA",
+	"destination": "Chattanooga, TN",
+	"start": "Cincinnati, OH, USA",
+	"duration": 18791
+},
+{
+	"origin": "Cincinnati, OH",
+	"distance": 695634,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "Cincinnati, OH, USA",
+	"duration": 23889
+},
+{
+	"origin": "Cincinnati, OH",
+	"distance": 741760,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Cincinnati, OH, USA",
+	"duration": 24120
+},
+{
+	"origin": "Christiansburg, VA",
+	"distance": 423237,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Christiansburg, VA, USA",
+	"duration": 14402
+},
+{
+	"origin": "Christiansburg, VA",
+	"distance": 775434,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Christiansburg, VA, USA",
+	"duration": 26232
+},
+{
+	"origin": "Christiansburg, VA",
+	"distance": 362315,
+	"end": "Knoxville, TN, USA",
+	"destination": "Knoxville, TN",
+	"start": "Christiansburg, VA, USA",
+	"duration": 11852
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 395753,
+	"end": "Toledo, OH, USA",
+	"destination": "Toledo, OH",
+	"start": "Chicago, IL, USA",
+	"duration": 13333
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 1275592,
+	"end": "Texarkana, AR, USA",
+	"destination": "Texarkana, AR",
+	"start": "Chicago, IL, USA",
+	"duration": 41973
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 477659,
+	"end": "St. Louis, MO, USA",
+	"destination": "St Louis, MO",
+	"start": "Chicago, IL, USA",
+	"duration": 16086
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 757618,
+	"end": "Omaha, NE, USA",
+	"destination": "Omaha, NE",
+	"start": "Chicago, IL, USA",
+	"duration": 25107
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 757295,
+	"end": "Nashville, TN, USA",
+	"destination": "Nashville, TN",
+	"start": "Chicago, IL, USA",
+	"duration": 25049
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 658002,
+	"end": "Minneapolis, MN, USA",
+	"destination": "Minneapolis, MN",
+	"start": "Chicago, IL, USA",
+	"duration": 22894
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 148270,
+	"end": "Milwaukee, WI, USA",
+	"destination": "Milwaukee, WI",
+	"start": "Chicago, IL, USA",
+	"duration": 5761
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 858318,
+	"end": "Memphis, TN, USA",
+	"destination": "Memphis, TN",
+	"start": "Chicago, IL, USA",
+	"duration": 28342
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 238393,
+	"end": "Madison, WI, USA",
+	"destination": "Madison, WI",
+	"start": "Chicago, IL, USA",
+	"duration": 9021
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 248492,
+	"end": "Madison, WI, USA",
+	"destination": "Madison, U of Wisc, WI",
+	"start": "Chicago, IL, USA",
+	"duration": 9531
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 478990,
+	"end": "Louisville, KY, USA",
+	"destination": "Louisville, KY",
+	"start": "Chicago, IL, USA",
+	"duration": 16265
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 1051133,
+	"end": "Little Rock, AR, USA",
+	"destination": "Little Rock, AR",
+	"start": "Chicago, IL, USA",
+	"duration": 34587
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 845327,
+	"end": "Kansas City, MO, USA",
+	"destination": "Kansas City, MO",
+	"start": "Chicago, IL, USA",
+	"duration": 27529
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 355818,
+	"end": "Iowa City, IA, USA",
+	"destination": "Iowa City, IA",
+	"start": "Chicago, IL, USA",
+	"duration": 12345
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 294787,
+	"end": "Indianapolis, IN, USA",
+	"destination": "Indianapolis, IN",
+	"start": "Chicago, IL, USA",
+	"duration": 10227
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 288372,
+	"end": "Grand Rapids, MI, USA",
+	"destination": "Grand Rapids, MI",
+	"start": "Chicago, IL, USA",
+	"duration": 9771
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 357891,
+	"end": "East Lansing, MI, USA",
+	"destination": "East Lansing, MI",
+	"start": "Chicago, IL, USA",
+	"duration": 11962
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 454942,
+	"end": "Detroit, MI, USA",
+	"destination": "Detroit, MI",
+	"start": "Chicago, IL, USA",
+	"duration": 14939
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 534358,
+	"end": "Des Moines, IA, USA",
+	"destination": "Des Moines, IA",
+	"start": "Chicago, IL, USA",
+	"duration": 17709
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 1596381,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Chicago, IL, USA",
+	"duration": 51925
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 572478,
+	"end": "Columbus, OH, USA",
+	"destination": "Columbus, OH",
+	"start": "Chicago, IL, USA",
+	"duration": 19295
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 663758,
+	"end": "Columbia, MO, USA",
+	"destination": "Columbia, MO",
+	"start": "Chicago, IL, USA",
+	"duration": 22360
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 555313,
+	"end": "Cleveland, OH, USA",
+	"destination": "Cleveland, OH",
+	"start": "Chicago, IL, USA",
+	"duration": 18616
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 475483,
+	"end": "Cincinnati, OH, USA",
+	"destination": "Cincinnati, OH",
+	"start": "Chicago, IL, USA",
+	"duration": 16154
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 221511,
+	"end": "Champaign, IL, USA",
+	"destination": "Champaign, IL",
+	"start": "Chicago, IL, USA",
+	"duration": 7709
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 1066962,
+	"end": "Birmingham, AL, USA",
+	"destination": "Birmingham, AL",
+	"start": "Chicago, IL, USA",
+	"duration": 34662
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 1153032,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Chicago, IL, USA",
+	"duration": 38000
+},
+{
+	"origin": "Chicago, IL",
+	"distance": 388476,
+	"end": "Ann Arbor, MI, USA",
+	"destination": "Ann Arbor, MI",
+	"start": "Chicago, IL, USA",
+	"duration": 12988
+},
+{
+	"origin": "Chattanooga, TN",
+	"distance": 216288,
+	"end": "Nashville, TN, USA",
+	"destination": "Nashville, TN",
+	"start": "Chattanooga, TN, USA",
+	"duration": 7415
+},
+{
+	"origin": "Chattanooga, TN",
+	"distance": 179800,
+	"end": "Knoxville, TN, USA",
+	"destination": "Knoxville, TN",
+	"start": "Chattanooga, TN, USA",
+	"duration": 6234
+},
+{
+	"origin": "Chattanooga, TN",
+	"distance": 748668,
+	"end": "Columbus, OH, USA",
+	"destination": "Columbus, OH",
+	"start": "Chattanooga, TN, USA",
+	"duration": 24647
+},
+{
+	"origin": "Chattanooga, TN",
+	"distance": 577478,
+	"end": "Cincinnati, OH, USA",
+	"destination": "Cincinnati, OH",
+	"start": "Chattanooga, TN, USA",
+	"duration": 18943
+},
+{
+	"origin": "Chattanooga, TN",
+	"distance": 1272597,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "Chattanooga, TN, USA",
+	"duration": 42487
+},
+{
+	"origin": "Chattanooga, TN",
+	"distance": 189149,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Chattanooga, TN, USA",
+	"duration": 6548
+},
+{
+	"origin": "Charlotte, NC",
+	"distance": 642107,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Charlotte, NC, USA",
+	"duration": 21671
+},
+{
+	"origin": "Charlotte, NC",
+	"distance": 469190,
+	"end": "Richmond, VA, USA",
+	"destination": "Richmond, VA",
+	"start": "Charlotte, NC, USA",
+	"duration": 15536
+},
+{
+	"origin": "Charlotte, NC",
+	"distance": 1003156,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Charlotte, NC, USA",
+	"duration": 34307
+},
+{
+	"origin": "Charlotte, NC",
+	"distance": 230317,
+	"end": "Durham, NC, USA",
+	"destination": "Durham, NC",
+	"start": "Charlotte, NC, USA",
+	"duration": 8006
+},
+{
+	"origin": "Charlotte, NC",
+	"distance": 395173,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Charlotte, NC, USA",
+	"duration": 13432
+},
+{
+	"origin": "Champaign, IL",
+	"distance": 1062882,
+	"end": "Texarkana, AR, USA",
+	"destination": "Texarkana, AR",
+	"start": "Champaign, IL, USA",
+	"duration": 35043
+},
+{
+	"origin": "Champaign, IL",
+	"distance": 645609,
+	"end": "Memphis, TN, USA",
+	"destination": "Memphis, TN",
+	"start": "Champaign, IL, USA",
+	"duration": 21412
+},
+{
+	"origin": "Champaign, IL",
+	"distance": 838424,
+	"end": "Little Rock, AR, USA",
+	"destination": "Little Rock, AR",
+	"start": "Champaign, IL, USA",
+	"duration": 27657
+},
+{
+	"origin": "Champaign, IL",
+	"distance": 1397617,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Champaign, IL, USA",
+	"duration": 45772
+},
+{
+	"origin": "Champaign, IL",
+	"distance": 217374,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Champaign, IL, USA",
+	"duration": 7959
+},
+{
+	"origin": "Champaign, IL",
+	"distance": 914170,
+	"end": "Birmingham, AL, USA",
+	"destination": "Birmingham, AL",
+	"start": "Champaign, IL, USA",
+	"duration": 29801
+},
+{
+	"origin": "Champaign, IL",
+	"distance": 1000242,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Champaign, IL, USA",
+	"duration": 33139
+},
+{
+	"origin": "Burlington, VT",
+	"distance": 188703,
+	"end": "Saratoga Springs, NY, USA",
+	"destination": "Saratoga Springs, NY",
+	"start": "Burlington, VT, USA",
+	"duration": 8990
+},
+{
+	"origin": "Burlington, VT",
+	"distance": 482182,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Burlington, VT, USA",
+	"duration": 19356
+},
+{
+	"origin": "Burlington, VT",
+	"distance": 379231,
+	"end": "Hartford, CT, USA",
+	"destination": "Hartford, CT",
+	"start": "Burlington, VT, USA",
+	"duration": 12791
+},
+{
+	"origin": "Burlington, VT",
+	"distance": 347007,
+	"end": "Boston, MA, USA",
+	"destination": "Boston, MA",
+	"start": "Burlington, VT, USA",
+	"duration": 11832
+},
+{
+	"origin": "Burlington, VT",
+	"distance": 308773,
+	"end": "Amherst, MA, USA",
+	"destination": "Amherst, MA",
+	"start": "Burlington, VT, USA",
+	"duration": 11018
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 618614,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Buffalo, NY, USA",
+	"duration": 24942
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 159388,
+	"end": "Toronto, ON, Canada",
+	"destination": "Toronto, ON",
+	"start": "Buffalo, NY, USA",
+	"duration": 6047
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 610968,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Buffalo, NY, USA",
+	"duration": 22286
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 599349,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Buffalo, NY, USA",
+	"duration": 22221
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 1106107,
+	"end": "Knoxville, TN, USA",
+	"destination": "Knoxville, TN",
+	"start": "Buffalo, NY, USA",
+	"duration": 36822
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 530038,
+	"end": "Columbus, OH, USA",
+	"destination": "Columbus, OH",
+	"start": "Buffalo, NY, USA",
+	"duration": 18313
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 702057,
+	"end": "Cincinnati, OH, USA",
+	"destination": "Cincinnati, OH",
+	"start": "Buffalo, NY, USA",
+	"duration": 24064
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 1280030,
+	"end": "Chattanooga, TN, USA",
+	"destination": "Chattanooga, TN",
+	"start": "Buffalo, NY, USA",
+	"duration": 42467
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 581532,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "Buffalo, NY, USA",
+	"duration": 22435
+},
+{
+	"origin": "Buffalo, NY",
+	"distance": 1443726,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Buffalo, NY, USA",
+	"duration": 47796
+},
+{
+	"origin": "Buffalo Airport, NY",
+	"distance": 172616,
+	"end": "Toronto, ON, Canada",
+	"destination": "Toronto, ON",
+	"start": "Buffalo Niagara International Airport, 4200 Genesee Street, Buffalo, NY 14225, USA",
+	"duration": 6595
+},
+{
+	"origin": "Buffalo Airport, NY",
+	"distance": 627110,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Buffalo Niagara International Airport, 4200 Genesee Street, Buffalo, NY 14225, USA",
+	"duration": 21641
+},
+{
+	"origin": "Brenham, TX",
+	"distance": 44144,
+	"end": "Prairie View, TX, USA",
+	"destination": "Prairie View, TX",
+	"start": "Brenham, TX 77833, USA",
+	"duration": 2021
+},
+{
+	"origin": "Brenham, TX",
+	"distance": 117814,
+	"end": "Houston, TX, USA",
+	"destination": "Houston, TX",
+	"start": "Brenham, TX 77833, USA",
+	"duration": 4440
+},
+{
+	"origin": "Brenham, TX",
+	"distance": 144567,
+	"end": "Austin, TX, USA",
+	"destination": "Austin, TX",
+	"start": "Brenham, TX 77833, USA",
+	"duration": 5930
+},
+{
+	"origin": "Boston, MA",
+	"distance": 704779,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Boston, MA, USA",
+	"duration": 25319
+},
+{
+	"origin": "Boston, MA",
+	"distance": 348638,
+	"end": "Secaucus, NJ, USA",
+	"destination": "Secaucus, NJ",
+	"start": "Boston, MA, USA",
+	"duration": 12664
+},
+{
+	"origin": "Boston, MA",
+	"distance": 173453,
+	"end": "Portland, ME, USA",
+	"destination": "Portland, ME",
+	"start": "Boston, MA, USA",
+	"duration": 6406
+},
+{
+	"origin": "Boston, MA",
+	"distance": 493225,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Boston, MA, USA",
+	"duration": 18047
+},
+{
+	"origin": "Boston, MA",
+	"distance": 345541,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Boston, MA, USA",
+	"duration": 12846
+},
+{
+	"origin": "Boston, MA",
+	"distance": 219477,
+	"end": "New Haven, CT, USA",
+	"destination": "New Haven, CT",
+	"start": "Boston, MA, USA",
+	"duration": 7852
+},
+{
+	"origin": "Boston, MA",
+	"distance": 162410,
+	"end": "Hartford, CT, USA",
+	"destination": "Hartford, CT",
+	"start": "Boston, MA, USA",
+	"duration": 5902
+},
+{
+	"origin": "Boston, MA",
+	"distance": 348068,
+	"end": "Burlington, VT, USA",
+	"destination": "Burlington, VT",
+	"start": "Boston, MA, USA",
+	"duration": 12007
+},
+{
+	"origin": "Boston, MA",
+	"distance": 643010,
+	"end": "Baltimore, MD, USA",
+	"destination": "Baltimore, MD",
+	"start": "Boston, MA, USA",
+	"duration": 22812
+},
+{
+	"origin": "Birmingham, AL",
+	"distance": 384176,
+	"end": "Memphis, TN, USA",
+	"destination": "Memphis, TN",
+	"start": "Birmingham, AL, USA",
+	"duration": 12845
+},
+{
+	"origin": "Birmingham, AL",
+	"distance": 602027,
+	"end": "Little Rock, AR, USA",
+	"destination": "Little Rock, AR",
+	"start": "Birmingham, AL, USA",
+	"duration": 20051
+},
+{
+	"origin": "Birmingham, AL",
+	"distance": 1082188,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Birmingham, AL, USA",
+	"duration": 34601
+},
+{
+	"origin": "Birmingham, AL",
+	"distance": 1066442,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Birmingham, AL, USA",
+	"duration": 34680
+},
+{
+	"origin": "Birmingham, AL",
+	"distance": 917678,
+	"end": "Champaign, IL, USA",
+	"destination": "Champaign, IL",
+	"start": "Birmingham, AL, USA",
+	"duration": 29746
+},
+{
+	"origin": "Birmingham, AL",
+	"distance": 242248,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Birmingham, AL, USA",
+	"duration": 8278
+},
+{
+	"origin": "Binghamton, NY",
+	"distance": 286096,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Binghamton, NY, USA",
+	"duration": 10593
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 61817,
+	"end": "Washington, DC, USA",
+	"destination": "Washington, DC",
+	"start": "Baltimore, MD, USA",
+	"duration": 3320
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 741853,
+	"end": "Toronto, ON, Canada",
+	"destination": "Toronto, ON",
+	"start": "Baltimore, MD, USA",
+	"duration": 28345
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 297801,
+	"end": "Secaucus, NJ, USA",
+	"destination": "Secaucus, NJ",
+	"start": "Baltimore, MD, USA",
+	"duration": 10530
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 236480,
+	"end": "Richmond, VA, USA",
+	"destination": "Richmond, VA",
+	"start": "Baltimore, MD, USA",
+	"duration": 8919
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 163662,
+	"end": "Philadelphia, PA, USA",
+	"destination": "Philadelphia, PA",
+	"start": "Baltimore, MD, USA",
+	"duration": 6397
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 93727,
+	"end": "Newark, DE, USA",
+	"destination": "Newark, DE",
+	"start": "Baltimore, MD, USA",
+	"duration": 4094
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 301267,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Baltimore, MD, USA",
+	"duration": 10993
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 349248,
+	"end": "Hampton, VA, USA",
+	"destination": "Hampton, VA",
+	"start": "Baltimore, MD, USA",
+	"duration": 12608
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 583899,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "Baltimore, MD, USA",
+	"duration": 22632
+},
+{
+	"origin": "Baltimore, MD",
+	"distance": 644218,
+	"end": "Boston, MA, USA",
+	"destination": "Boston, MA",
+	"start": "Baltimore, MD, USA",
+	"duration": 22839
+},
+{
+	"origin": "Austin, TX",
+	"distance": 128427,
+	"end": "San Antonio, TX, USA",
+	"destination": "San Antonio, TX",
+	"start": "Austin, TX, USA",
+	"duration": 4711
+},
+{
+	"origin": "Austin, TX",
+	"distance": 187361,
+	"end": "Prairie View, TX, USA",
+	"destination": "Prairie View, TX",
+	"start": "Austin, TX, USA",
+	"duration": 7248
+},
+{
+	"origin": "Austin, TX",
+	"distance": 265934,
+	"end": "Houston, TX, USA",
+	"destination": "Houston, TX",
+	"start": "Austin, TX, USA",
+	"duration": 9506
+},
+{
+	"origin": "Austin, TX",
+	"distance": 300878,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Austin, TX, USA",
+	"duration": 10333
+},
+{
+	"origin": "Austin, TX",
+	"distance": 143657,
+	"end": "Brenham, TX 77833, USA",
+	"destination": "Brenham, TX",
+	"start": "Austin, TX, USA",
+	"duration": 5762
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 710664,
+	"end": "Orlando, FL, USA",
+	"destination": "Orlando, FL",
+	"start": "Atlanta, GA, USA",
+	"duration": 22362
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 757128,
+	"end": "New Orleans, LA, USA",
+	"destination": "New Orleans, LA",
+	"start": "Atlanta, GA, USA",
+	"duration": 24107
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 401269,
+	"end": "Nashville, TN, USA",
+	"destination": "Nashville, TN",
+	"start": "Atlanta, GA, USA",
+	"duration": 13429
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 258759,
+	"end": "Montgomery, AL, USA",
+	"destination": "Montgomery, AL",
+	"start": "Atlanta, GA, USA",
+	"duration": 8528
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 528394,
+	"end": "Mobile, AL, USA",
+	"destination": "Mobile, AL",
+	"start": "Atlanta, GA, USA",
+	"duration": 16777
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 617658,
+	"end": "Memphis, TN, USA",
+	"destination": "Memphis, TN",
+	"start": "Atlanta, GA, USA",
+	"duration": 20644
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 835510,
+	"end": "Little Rock, AR, USA",
+	"destination": "Little Rock, AR",
+	"start": "Atlanta, GA, USA",
+	"duration": 27850
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 343630,
+	"end": "Knoxville, TN, USA",
+	"destination": "Knoxville, TN",
+	"start": "Atlanta, GA, USA",
+	"duration": 11426
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 556211,
+	"end": "Jacksonville, FL, USA",
+	"destination": "Jacksonville, FL",
+	"start": "Atlanta, GA, USA",
+	"duration": 17709
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 533034,
+	"end": "Gainesville, FL, USA",
+	"destination": "Gainesville, FL",
+	"start": "Atlanta, GA, USA",
+	"duration": 17269
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 1313232,
+	"end": "Fort Worth, TX, USA",
+	"destination": "Dallas/Fort Worth, TX",
+	"start": "Atlanta, GA, USA",
+	"duration": 42204
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 912499,
+	"end": "Columbus, OH, USA",
+	"destination": "Columbus, OH",
+	"start": "Atlanta, GA, USA",
+	"duration": 29839
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 741309,
+	"end": "Cincinnati, OH, USA",
+	"destination": "Cincinnati, OH",
+	"start": "Atlanta, GA, USA",
+	"duration": 24135
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 1153825,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Atlanta, GA, USA",
+	"duration": 38109
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 189596,
+	"end": "Chattanooga, TN, USA",
+	"destination": "Chattanooga, TN",
+	"start": "Atlanta, GA, USA",
+	"duration": 6422
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 393947,
+	"end": "Charlotte, NC, USA",
+	"destination": "Charlotte, NC",
+	"start": "Atlanta, GA, USA",
+	"duration": 13181
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 1005061,
+	"end": "Champaign, IL, USA",
+	"destination": "Champaign, IL",
+	"start": "Atlanta, GA, USA",
+	"duration": 33175
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 1436426,
+	"end": "Buffalo, NY, USA",
+	"destination": "Buffalo, NY",
+	"start": "Atlanta, GA, USA",
+	"duration": 47679
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 236182,
+	"end": "Birmingham, AL, USA",
+	"destination": "Birmingham, AL",
+	"start": "Atlanta, GA, USA",
+	"duration": 8094
+},
+{
+	"origin": "Atlanta, GA",
+	"distance": 114945,
+	"end": "Athens, GA, USA",
+	"destination": "Athens, GA",
+	"start": "Atlanta, GA, USA",
+	"duration": 4647
+},
+{
+	"origin": "Athens, GA",
+	"distance": 115523,
+	"end": "Atlanta, GA, USA",
+	"destination": "Atlanta, GA",
+	"start": "Athens, GA, USA",
+	"duration": 4947
+},
+{
+	"origin": "Ann Arbor, MI",
+	"distance": 84234,
+	"end": "Toledo, OH, USA",
+	"destination": "Toledo, OH",
+	"start": "Ann Arbor, MI, USA",
+	"duration": 3159
+},
+{
+	"origin": "Ann Arbor, MI",
+	"distance": 630901,
+	"end": "State College, PA, USA",
+	"destination": "State College, PA",
+	"start": "Ann Arbor, MI, USA",
+	"duration": 21781
+},
+{
+	"origin": "Ann Arbor, MI",
+	"distance": 460402,
+	"end": "Pittsburgh, PA, USA",
+	"destination": "Pittsburgh, PA",
+	"start": "Ann Arbor, MI, USA",
+	"duration": 15328
+},
+{
+	"origin": "Ann Arbor, MI",
+	"distance": 988845,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Ann Arbor, MI, USA",
+	"duration": 33485
+},
+{
+	"origin": "Ann Arbor, MI",
+	"distance": 69652,
+	"end": "Detroit, MI, USA",
+	"destination": "Detroit, MI",
+	"start": "Ann Arbor, MI, USA",
+	"duration": 2673
+},
+{
+	"origin": "Ann Arbor, MI",
+	"distance": 273044,
+	"end": "Cleveland, OH, USA",
+	"destination": "Cleveland, OH",
+	"start": "Ann Arbor, MI, USA",
+	"duration": 9406
+},
+{
+	"origin": "Ann Arbor, MI",
+	"distance": 388493,
+	"end": "Chicago, IL, USA",
+	"destination": "Chicago, IL",
+	"start": "Ann Arbor, MI, USA",
+	"duration": 12954
+},
+{
+	"origin": "Amherst, MA",
+	"distance": 270145,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Amherst, MA, USA",
+	"duration": 10651
+},
+{
+	"origin": "Amherst, MA",
+	"distance": 84883,
+	"end": "Hartford, CT, USA",
+	"destination": "Hartford, CT",
+	"start": "Amherst, MA, USA",
+	"duration": 3602
+},
+{
+	"origin": "Amherst, MA",
+	"distance": 308802,
+	"end": "Burlington, VT, USA",
+	"destination": "Burlington, VT",
+	"start": "Amherst, MA, USA",
+	"duration": 11011
+},
+{
+	"origin": "Albany, NY",
+	"distance": 202797,
+	"end": "Ridgewood, NJ, USA",
+	"destination": "Ridgewood, NJ",
+	"start": "Albany, NY, USA",
+	"duration": 7236
+},
+{
+	"origin": "Albany, NY",
+	"distance": 241552,
+	"end": "New York, NY, USA",
+	"destination": "New York, NY",
+	"start": "Albany, NY, USA",
+	"duration": 9107
+}]

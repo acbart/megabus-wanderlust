@@ -1,0 +1,346 @@
+Trek: 0
+	Total Cost: $18.0
+	Total Time: 7:10 hours
+	Total Time Waiting: 4:50 hours
+	Leave: Sun Aug 18 08:15 AM
+	Arrive: Sun Aug 18 03:25 PM
+	Itinerary:
+	Newark, DE -> Philadelphia, PA -> Newark, DE
+		Leave from Newark, DE: Sun 08:15 AM
+		Arrive at Philadelphia, PA: Sun 09:25 AM
+		Wait in Philadelphia, PA: 4:50 hours
+		Leave from Philadelphia, PA: Sun 02:15 PM
+		Arrive at Newark, DE: Sun 03:25 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=127&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=127
+
+Trek: 1
+	Total Cost: $18.0
+	Total Time: 11:15 hours
+	Total Time Waiting: 8:55 hours
+	Leave: Sun Aug 18 08:15 AM
+	Arrive: Sun Aug 18 07:30 PM
+	Itinerary:
+	Newark, DE -> Philadelphia, PA -> Newark, DE
+		Leave from Newark, DE: Sun 08:15 AM
+		Arrive at Philadelphia, PA: Sun 09:25 AM
+		Wait in Philadelphia, PA: 8:55 hours
+		Leave from Philadelphia, PA: Sun 06:20 PM
+		Arrive at Newark, DE: Sun 07:30 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=127&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=127
+
+Trek: 2
+	Total Cost: $18.0
+	Total Time: 11:15 hours
+	Total Time Waiting: 8:55 hours
+	Leave: Sun Aug 18 08:15 AM
+	Arrive: Sun Aug 18 07:30 PM
+	Itinerary:
+	Newark, DE -> Philadelphia, PA -> Newark, DE
+		Leave from Newark, DE: Sun 08:15 AM
+		Arrive at Philadelphia, PA: Sun 09:25 AM
+		Wait in Philadelphia, PA: 8:55 hours
+		Leave from Philadelphia, PA: Sun 06:20 PM
+		Arrive at Newark, DE: Sun 07:30 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=127&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=127
+
+Trek: 3
+	Total Cost: $24.0
+	Total Time: 14:45 hours
+	Total Time Waiting: 8:50 hours
+	Leave: Sun Aug 18 08:15 AM
+	Arrive: Sun Aug 18 11:00 PM
+	Itinerary:
+	Newark, DE -> Philadelphia, PA -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 08:15 AM
+		Arrive at Philadelphia, PA: Sun 09:25 AM
+		Wait in Philadelphia, PA: 8:35 hours
+		Leave from Philadelphia, PA: Sun 06:00 PM
+		Arrive at New York, NY: Sun 08:15 PM
+		Wait in New York, NY: 15 minutes
+		Leave from New York, NY: Sun 08:30 PM
+		Arrive at Newark, DE: Sun 11:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=127&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#15): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=127
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 4
+	Total Cost: $24.0
+	Total Time: 14:45 hours
+	Total Time Waiting: 8:50 hours
+	Leave: Sun Aug 18 08:15 AM
+	Arrive: Sun Aug 18 11:00 PM
+	Itinerary:
+	Newark, DE -> Philadelphia, PA -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 08:15 AM
+		Arrive at Philadelphia, PA: Sun 09:25 AM
+		Wait in Philadelphia, PA: 7:35 hours
+		Leave from Philadelphia, PA: Sun 05:00 PM
+		Arrive at New York, NY: Sun 07:15 PM
+		Wait in New York, NY: 1:15 hours
+		Leave from New York, NY: Sun 08:30 PM
+		Arrive at Newark, DE: Sun 11:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=127&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#14): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=127
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 5
+	Total Cost: $24.0
+	Total Time: 14:45 hours
+	Total Time Waiting: 8:50 hours
+	Leave: Sun Aug 18 08:15 AM
+	Arrive: Sun Aug 18 11:00 PM
+	Itinerary:
+	Newark, DE -> Philadelphia, PA -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 08:15 AM
+		Arrive at Philadelphia, PA: Sun 09:25 AM
+		Wait in Philadelphia, PA: 8:35 hours
+		Leave from Philadelphia, PA: Sun 06:00 PM
+		Arrive at New York, NY: Sun 08:15 PM
+		Wait in New York, NY: 15 minutes
+		Leave from New York, NY: Sun 08:30 PM
+		Arrive at Newark, DE: Sun 11:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=127&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#15): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=127
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 6
+	Total Cost: $24.0
+	Total Time: 14:45 hours
+	Total Time Waiting: 8:50 hours
+	Leave: Sun Aug 18 08:15 AM
+	Arrive: Sun Aug 18 11:00 PM
+	Itinerary:
+	Newark, DE -> Philadelphia, PA -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 08:15 AM
+		Arrive at Philadelphia, PA: Sun 09:25 AM
+		Wait in Philadelphia, PA: 7:35 hours
+		Leave from Philadelphia, PA: Sun 05:00 PM
+		Arrive at New York, NY: Sun 07:15 PM
+		Wait in New York, NY: 1:15 hours
+		Leave from New York, NY: Sun 08:30 PM
+		Arrive at Newark, DE: Sun 11:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=127&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#14): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=127
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 7
+	Total Cost: $24.0
+	Total Time: 14:45 hours
+	Total Time Waiting: 8:45 hours
+	Leave: Sun Aug 18 08:15 AM
+	Arrive: Sun Aug 18 11:00 PM
+	Itinerary:
+	Newark, DE -> Philadelphia, PA -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 08:15 AM
+		Arrive at Philadelphia, PA: Sun 09:25 AM
+		Wait in Philadelphia, PA: 6:35 hours
+		Leave from Philadelphia, PA: Sun 04:00 PM
+		Arrive at New York, NY: Sun 06:20 PM
+		Wait in New York, NY: 2:10 hours
+		Leave from New York, NY: Sun 08:30 PM
+		Arrive at Newark, DE: Sun 11:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=127&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#13): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=127
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 8
+	Total Cost: $24.0
+	Total Time: 14:45 hours
+	Total Time Waiting: 8:45 hours
+	Leave: Sun Aug 18 08:15 AM
+	Arrive: Sun Aug 18 11:00 PM
+	Itinerary:
+	Newark, DE -> Philadelphia, PA -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 08:15 AM
+		Arrive at Philadelphia, PA: Sun 09:25 AM
+		Wait in Philadelphia, PA: 6:35 hours
+		Leave from Philadelphia, PA: Sun 04:00 PM
+		Arrive at New York, NY: Sun 06:20 PM
+		Wait in New York, NY: 2:10 hours
+		Leave from New York, NY: Sun 08:30 PM
+		Arrive at Newark, DE: Sun 11:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=127&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#13): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=127
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 9
+	Total Cost: $6.0
+	Total Time: 6:50 hours
+	Total Time Waiting: 1:50 hours
+	Leave: Sun Aug 18 06:00 AM
+	Arrive: Sun Aug 18 12:50 PM
+	Itinerary:
+	Newark, DE -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 06:00 AM
+		Arrive at New York, NY: Sun 08:30 AM
+		Wait in New York, NY: 1:50 hours
+		Leave from New York, NY: Sun 10:20 AM
+		Arrive at Newark, DE: Sun 12:50 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 10
+	Total Cost: $7.0
+	Total Time: 9:50 hours
+	Total Time Waiting: 4:50 hours
+	Leave: Sun Aug 18 06:00 AM
+	Arrive: Sun Aug 18 03:50 PM
+	Itinerary:
+	Newark, DE -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 06:00 AM
+		Arrive at New York, NY: Sun 08:30 AM
+		Wait in New York, NY: 4:50 hours
+		Leave from New York, NY: Sun 01:20 PM
+		Arrive at Newark, DE: Sun 03:50 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 11
+	Total Cost: $9.0
+	Total Time: 14:00 hours
+	Total Time Waiting: 9:00 hours
+	Leave: Sun Aug 18 06:00 AM
+	Arrive: Sun Aug 18 08:00 PM
+	Itinerary:
+	Newark, DE -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 06:00 AM
+		Arrive at New York, NY: Sun 08:30 AM
+		Wait in New York, NY: 9:00 hours
+		Leave from New York, NY: Sun 05:30 PM
+		Arrive at Newark, DE: Sun 08:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 12
+	Total Cost: $7.0
+	Total Time: 17:00 hours
+	Total Time Waiting: 12:00 hours
+	Leave: Sun Aug 18 06:00 AM
+	Arrive: Sun Aug 18 11:00 PM
+	Itinerary:
+	Newark, DE -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 06:00 AM
+		Arrive at New York, NY: Sun 08:30 AM
+		Wait in New York, NY: 12:00 hours
+		Leave from New York, NY: Sun 08:30 PM
+		Arrive at Newark, DE: Sun 11:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 13
+	Total Cost: $7.0
+	Total Time: 17:00 hours
+	Total Time Waiting: 12:00 hours
+	Leave: Sun Aug 18 06:00 AM
+	Arrive: Sun Aug 18 11:00 PM
+	Itinerary:
+	Newark, DE -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 06:00 AM
+		Arrive at New York, NY: Sun 08:30 AM
+		Wait in New York, NY: 12:00 hours
+		Leave from New York, NY: Sun 08:30 PM
+		Arrive at Newark, DE: Sun 11:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 14
+	Total Cost: $9.0
+	Total Time: 14:00 hours
+	Total Time Waiting: 9:00 hours
+	Leave: Sun Aug 18 06:00 AM
+	Arrive: Sun Aug 18 08:00 PM
+	Itinerary:
+	Newark, DE -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 06:00 AM
+		Arrive at New York, NY: Sun 08:30 AM
+		Wait in New York, NY: 9:00 hours
+		Leave from New York, NY: Sun 05:30 PM
+		Arrive at Newark, DE: Sun 08:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 15
+	Total Cost: $7.0
+	Total Time: 9:50 hours
+	Total Time Waiting: 4:50 hours
+	Leave: Sun Aug 18 06:00 AM
+	Arrive: Sun Aug 18 03:50 PM
+	Itinerary:
+	Newark, DE -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 06:00 AM
+		Arrive at New York, NY: Sun 08:30 AM
+		Wait in New York, NY: 4:50 hours
+		Leave from New York, NY: Sun 01:20 PM
+		Arrive at Newark, DE: Sun 03:50 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+Trek: 16
+	Total Cost: $23.0
+	Total Time: 17:00 hours
+	Total Time Waiting: 10:10 hours
+	Leave: Sun Aug 18 06:00 AM
+	Arrive: Sun Aug 18 11:00 PM
+	Itinerary:
+	Newark, DE -> New York, NY -> New Brunswick, NJ -> New York, NY -> Newark, DE
+		Leave from Newark, DE: Sun 06:00 AM
+		Arrive at New York, NY: Sun 08:30 AM
+		Wait in New York, NY: 5:30 hours
+		Leave from New York, NY: Sun 02:00 PM
+		Arrive at New Brunswick, NJ: Sun 02:50 PM
+		Wait in New Brunswick, NJ: 3:55 hours
+		Leave from New Brunswick, NJ: Sun 06:45 PM
+		Arrive at New York, NY: Sun 07:45 PM
+		Wait in New York, NY: 45 minutes
+		Leave from New York, NY: Sun 08:30 PM
+		Arrive at Newark, DE: Sun 11:00 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=305&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+
+		Ticket URL (#6): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=123&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=305
+
+		Ticket URL (#4): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=389&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F18%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=123
+

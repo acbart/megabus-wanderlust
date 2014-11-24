@@ -1,3 +1,5 @@
+reports/
+
 *.py[cod]
 
 # C extensions

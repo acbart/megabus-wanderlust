@@ -1,35 +1,140 @@
 import requests
+import time
+from requests import ConnectionError
 from bs4 import BeautifulSoup
 import datetime
+import itertools
+from heapq import heappop, heappush
 def removeNonAscii(s): return "".join(filter(lambda x: ord(x)<128, s))
 
+class Trek(object):
+    def __init__(self, start, trips=None):
+        if trips is None:
+            self.trips = []
+        else:
+            self.trips = list(trips)
+        self.start = start
+    
+    @property
+    def waiting_time(self):
+        previous_arrival = self.trips[0].departure.date
+        waiting_hours = datetime.timedelta(days=0)
+        for trip in self.trips:
+            waiting_hours += trip.departure.date - previous_arrival
+            previous_arrival = trip.arrival.date
+        return waiting_hours.seconds
+        
+    @property
+    def value(self):
+        if len(self.trips) > 1:
+            return self.cost / float(1 + self.waiting_time//3600)
+        else:
+            return self.cost
+    
+    @property
+    def cost(self):
+        return sum(trip.cost for trip in self.trips)
+        
+    @property
+    def arrival(self):
+        if self.trips:
+            return self.trips[-1].arrival
+        else:
+            return self.start
+            
+    @property
+    def departure(self):
+        return self.start
+            
+    def __getitem__(self, key):
+        return self.trips[key]
+        
+    def __len__(self):
+        return len(self.trips)
+        
+    def route(self):
+        return [self.start] + [trip.arrival for trip in self.trips]
+    
+    def add_trip(self, trip):
+        return Trek(self.start, self.trips + [trip])
+        
+    def __nonzero__(self):
+        return bool(self.trips)
+
 class Stop(object):
-    def __init__(self, date, city, station):
+    def __init__(self, date, city, station=""):
         self.date = date
         self.city = city
         self.station = station
         
     def __str__(self):
-        return str(vars(self))
+        return "{} at {}".format(self.city, self.date.strftime("%m/%d/%Y"))
+    
+    def __repr__(self):
+        return "{} at {}".format(self.city, self.date.strftime("%m/%d/%Y"))
         
     def __hash__(self):
         return hash((self.date.date(), self.city))
         
 class Trip(object):
-    def __init__(self, departure, arrival, duration, cost):
+    def __init__(self, departure, arrival, duration, cost, url=""):
         self.departure = departure
         self.arrival = arrival
         self.duration = duration
         self.cost = cost
+        if type(cost) in (str, unicode):
+            self.cost = float(cost[1:])
+        if url=="":
+            url = (0, "")
+        self.url = url
         
     def copy(self):
-        return Trip(self.departure, self.arrival, self.duration, self.cost, self.origin, self.destination)
+        return Trip(self.departure, self.arrival, self.duration, self.cost, self.origin, self.destination, self.url)
         
     def __str__(self):
         return str(vars(self))
         
     def __hash__(self):
         return hash( (hash(self.departure), hash(self.arrival)) )
+    
+HOURS = [datetime.time(hour=10, minute=30), datetime.time(hour=11, minute=25),
+         datetime.time(hour=12, minute=30), datetime.time(hour=13, minute=25),
+         datetime.time(hour=14, minute=15), datetime.time(hour=16, minute=25),
+         datetime.time(hour=18, minute=15), datetime.time(hour=20, minute=15),
+         datetime.time(hour=22, minute=25)]
+
+SEARCH_CACHE = {}
+def cache_search(origin, destination, date):
+    if type(date) != str:
+        string_date = date.strftime("%m/%d/%Y")
+    if type(origin) in (str, unicode):
+        origin = city_names[origin.replace(" , ", ", ")]
+    if type(destination) in (str, unicode):
+        destination = city_names[destination.replace(" , ", ", ")]
+    if origin == 999:
+        return_times = [[datetime.datetime.combine(new_date, time) for time in HOURS] for new_date in days_ahead_range(date, 4)]
+        return [Trip(Stop(new_date, city_codes[origin]),
+                     Stop(new_date, city_codes[destination]), 
+                     "2hrs 25mins", 
+                     "$0.00") 
+                 for new_date in itertools.chain(*return_times)]
+    elif origin == 118 and destination == 102:
+        LEAVE1 = datetime.datetime.combine(date, datetime.time(hour=4, minute=10))
+        ARRIVE1 = datetime.datetime.combine(date, datetime.time(hour=9, minute=5))
+        LEAVE2 = datetime.datetime.combine(date, datetime.time(hour=17, minute=10))
+        ARRIVE2 = datetime.datetime.combine(date, datetime.time(hour=22, minute=5))
+        return [Trip(Stop(LEAVE1, city_codes[origin]),
+                     Stop(ARRIVE1, city_codes[destination]), 
+                     "4hrs 55mins", 
+                     "$36.00"),
+                Trip(Stop(LEAVE2, city_codes[origin]),
+                     Stop(ARRIVE2, city_codes[destination]), 
+                     "4hrs 55mins", 
+                     "$36.00")]
+    elif (origin, destination, string_date) in SEARCH_CACHE:
+        return SEARCH_CACHE[(origin, destination, string_date)]
+    else:
+        return search(origin, destination, string_date)
         
 def search(origin, destination, date):
     url = "http://us.megabus.com/JourneyResults.aspx"
@@ -42,10 +147,11 @@ def search(origin, destination, date):
                "outboundPcaCount": "0", "inboundPcaCount": "0", "promotionCode": "",
                "withReturn": "0"}
     result = requests.get(url, params=payload)
+    complete_url = result.url
     result = removeNonAscii(result.content).encode('ascii', 'ignore')
     result = BeautifulSoup(result)
     results = []
-    for r in result.find_all(class_ = "journey standard"):
+    for id, r in enumerate(result.find_all(class_ = "journey standard")):
         second = r.find(class_ = "two")
         departs = list(second.p.children)
         depart_time = str(departs[2].strip())
@@ -66,7 +172,7 @@ def search(origin, destination, date):
         else:
             arrive_time = datetime.datetime.combine(d, at)
         results.append(Trip(Stop(depart_time, depart_city, depart_station), 
-                            Stop(arrive_time, arrive_city, arrive_station), duration, cost))
+                            Stop(arrive_time, arrive_city, arrive_station), duration, cost, url=(id+1, complete_url)))
     return results
 
 # Get location codes
@@ -113,13 +219,13 @@ class TravelProblem(SearchProblem):
         return state == self.destination
         
 def days_hours_minutes(td):
-    if td.seconds//86400 == 0:
+    if td.days == 0:
         if td.seconds//3600 == 0:
             return "%d minutes" % ((td.seconds//60)%60,)
         else:
             return "%d:%02d hours" % (td.seconds//3600, (td.seconds//60)%60)
     else:
-        return "%d days, %d:%02d hours" % (td.seconds//86400, td.seconds//3600, (td.seconds//60)%60)
+        return "%d days, %d:%02d hours" % (td.days, td.seconds//3600, (td.seconds//60)%60)
         
 def day_range(start, end, **intervals):
     if start.date() <= end.date():
@@ -128,8 +234,15 @@ def day_range(start, end, **intervals):
             start = start + datetime.timedelta(**intervals)
         yield end
         
+def days_ahead_range(start, plus):
+    for x in xrange(plus+1):
+        yield start + datetime.timedelta(days=x)
+        
 no_waiting = False
+MAX_HOURS_WAITING = 24
 def long_trip(name, locations, dates):
+    filename = "{}.txt".format(name)
+    file = open(filename, 'w')
     if type(dates[0]) == str:
         dates = map(lambda x : datetime.datetime.strptime(x, "%m/%d/%Y"), dates)
     all_trips = {}
@@ -142,68 +255,103 @@ def long_trip(name, locations, dates):
         origin = destination
     
     origin = locations[0]
-    treks = [[Trip(Stop(date, origin, None),
-                   Stop(date, origin, None),
-                   0, "$0")] 
-                for date in day_range(dates[0], dates[1], days=1)]
+    treks = list(reversed([(0, Trek(Stop(date, origin, None)))
+                for date in day_range(dates[0], dates[1], days=1)]))
     finished_treks = []
     while treks:
-        # A Trek is a list of Trips
-        current_trek = treks.pop()
-        destination = current_trek[-1].arrival
-        current_city, current_date = destination.city, destination.date
-        next_city = path[current_city]
-        # Lookup the information about that date/city if we don't already have it
-        if destination not in all_trips:
-            all_trips[destination] = []
-            for trip in search(city_names[current_city], city_names[next_city], 
-                               current_date.strftime("%m/%d/%Y")):
-                trip.origin = current_city
-                trip.destination = next_city
-                all_trips[destination].append(trip)
-            # Also add all the trips if we assume we took them the next day
-            for trip in search(city_names[current_city], city_names[next_city], 
-                              (current_date+datetime.timedelta(days=1)).strftime("%m/%d/%Y")):
-                trip.origin = current_city
-                trip.destination = next_city
-                all_trips[destination].append(trip)
-        # Add the possible trips to this trek
-        for next_trip in all_trips[destination]:
-            # Don't add trips that are impossible (departs before arrival)
-            if (current_date < next_trip.departure.date):
-                # Don't add trips where you wait for more than 6 hours somewhere)
-                if not no_waiting or (next_trip.departure.date - current_date < datetime.timedelta(hours=6)):
-                    # if this is the final city, we move to the finished_treks
-                    if next_city == locations[-1]:
-                        finished_treks.append(current_trek + [next_trip])
-                    else:
-                        treks.append(current_trek + [next_trip])
-                        
+        try:
+            # A Trek is a list of Trips
+            cost, current_trek = heappop(treks)
+            print current_trek.route()
+            destination = current_trek.arrival
+            current_city, current_date = destination.city, destination.date
+            next_city = path[current_city]
+            # Look up the possible trips
+            results = cache_search(current_city, next_city, current_date)
+            results += cache_search(current_city, next_city, current_date+datetime.timedelta(days=1))
+            # Add the possible trips to this trek
+            for next_trip in results:
+                # Don't add trips that are impossible (departs before arrival)
+                if (current_date < next_trip.departure.date):
+                    # Don't add trips where you wait for more than 6 hours somewhere)
+                    if not no_waiting or (next_trip.departure.date - current_date < datetime.timedelta(hours=6)):
+                        # if this is the final city, we move to the finished_treks
+                        if next_city == locations[-1]:
+                            
+                            #finished_treks.append(current_trek + [next_trip])
+                            report_append(file, len(finished_treks), current_trek.add_trip(next_trip))
+                        else:
+                            new = current_trek.add_trip(next_trip)
+                            heappush(treks, (-len(new), new))
+                            #treks.append(current_trek.add_trip(next_trip))
+        except ConnectionError, c:
+            print "Time out, try again"
+            heappush(treks, (cost, current_trek))
+            time.sleep(1)
+    file.close()
+        #report(name, finished_treks)
+        
+def report_append(file, id, trek):
+    previous_arrival = trek[0].departure.date
+    waiting_hours = datetime.timedelta(days=0)
+    all_hours_waiting = []
+    for trip in trek:
+        waiting_hours += trip.departure.date - previous_arrival
+        all_hours_waiting.append(trip.departure.date - previous_arrival)
+        previous_arrival = trip.arrival.date
+    file.write("Trek: {} -> {} for ${} over {}\n".format(trek[0].departure.date.strftime("%a %b %d %I:%M %p"), trek.arrival.date.strftime("%a %b %d %I:%M %p"), trek.cost, days_hours_minutes(trek.arrival.date - trek[0].departure.date)))
+    file.write("\tTotal Cost: ${}\n".format(trek.cost))
+    file.write("\tTotal Time: {}\n".format(days_hours_minutes(trek.arrival.date - trek[0].departure.date)))
+    file.write("\tTotal Time Waiting: {}\n".format(days_hours_minutes(waiting_hours)))
+    file.write("\tLeave: {}\n".format(trek[0].departure.date.strftime("%a %b %d %I:%M %p")))
+    file.write("\tArrive: {}\n".format(trek.arrival.date.strftime("%a %b %d %I:%M %p")))
+    file.write("\tItinerary:\n")
+    file.write("\t{}\n".format(" -> ".join([stop.city for stop in trek.route()])))
+    previous_arrival = trek[0].departure.date
+    tickets = []
+    for trip in trek:
+        if previous_arrival != trek[0].departure.date:
+            file.write("\t\tWait in {}: {}\n".format(trip.departure.city, days_hours_minutes(trip.departure.date - previous_arrival)))
+        file.write("\t\tLeave from {}: {}\n".format(trip.departure.city, trip.departure.date.strftime("%a %I:%M %p")))
+        file.write("\t\tArrive at {}: {}\n".format(trip.arrival.city, trip.arrival.date.strftime("%a %I:%M %p")))
+        tickets.append(trip.url)
+        previous_arrival = trip.arrival.date
+    file.write("\tTicket URLs:\n")
+    for id_on_page, ticket in tickets:
+        file.write("\t\tTicket URL (#{}): {}\n\n".format(id_on_page, ticket))
+    file.flush()
+    
+def report(name, treks, max_hours_waiting=None):
     with open(name+".txt", "w") as file:
-        for id, trek in enumerate(finished_treks):
-            previous_arrival = None
+        for id, trek in enumerate(treks):
+            previous_arrival = trek[0].departure.date
             waiting_hours = datetime.timedelta(days=0)
             all_hours_waiting = []
-            for trip in trek[1:]:
-                if previous_arrival != None:
-                    waiting_hours = waiting_hours + trip.departure.date - previous_arrival
-                    all_hours_waiting.append(trip.departure.date - previous_arrival)
+            for trip in trek:
+                waiting_hours += trip.departure.date - previous_arrival
+                all_hours_waiting.append(trip.departure.date - previous_arrival)
                 previous_arrival = trip.arrival.date
-            if all(waiting_time < datetime.timedelta(hours=6) for waiting_time in all_hours_waiting):
+            if max_hours_waiting is None or all(waiting_time < datetime.timedelta(hours=max_hours_waiting) for waiting_time in all_hours_waiting):
                 file.write("Trek: {}\n".format(id))
-                file.write("\tTotal Cost: ${}\n".format(sum(map(float, [trip.cost[1:] for trip in trek]))))
-                file.write("\tTotal Time: {}\n".format(days_hours_minutes(trek[-1].arrival.date - trek[1].departure.date)))
+                file.write("\tTotal Cost: ${}\n".format(trek.cost))
+                file.write("\tTotal Time: {}\n".format(days_hours_minutes(trek.arrival.date - trek[0].departure.date)))
                 file.write("\tTotal Time Waiting: {}\n".format(days_hours_minutes(waiting_hours)))
-                file.write("\tLeave: {}\n".format(trek[1].departure.date.strftime("%a %b %d %I:%M %p")))
-                file.write("\tArrive: {}\n".format(trek[-1].arrival.date.strftime("%a %b %d %I:%M %p")))
+                file.write("\tLeave: {}\n".format(trek[0].departure.date.strftime("%a %b %d %I:%M %p")))
+                file.write("\tArrive: {}\n".format(trek.arrival.date.strftime("%a %b %d %I:%M %p")))
                 file.write("\tItinerary:\n")
-                previous_arrival = None
-                for trip in trek[1:]:
-                    if previous_arrival != None:
+                file.write("\t{}\n".format(" -> ".join([stop.city for stop in trek.route()])))
+                previous_arrival = trek[0].departure.date
+                tickets = []
+                for trip in trek:
+                    if previous_arrival != trek[0].departure.date:
                         file.write("\t\tWait in {}: {}\n".format(trip.departure.city, days_hours_minutes(trip.departure.date - previous_arrival)))
                     file.write("\t\tLeave from {}: {}\n".format(trip.departure.city, trip.departure.date.strftime("%a %I:%M %p")))
                     file.write("\t\tArrive at {}: {}\n".format(trip.arrival.city, trip.arrival.date.strftime("%a %I:%M %p")))
+                    tickets.append(trip.url)
                     previous_arrival = trip.arrival.date
+                file.write("\tTicket URLs:\n")
+                for id_on_page, ticket in tickets:
+                    file.write("\t\tTicket URL (#{}): {}\n".format(id_on_page, ticket))
     
     #first = city_names[locations[0]]
     #second = city_names[locations[1]]
@@ -227,17 +375,19 @@ def long_trip(name, locations, dates):
         
 #print long_trip(["Newark, DE", "Washington, DC", "Christiansburg, VA"], (17, 28))
 
-NEWARK = "Newark, DE"
-DC = "Washington, DC"
-BLACKSBURG = "Christiansburg, VA"
-ROUTE = ["Newark, DE", "Washington, DC", "Christiansburg, VA"]
-if False:
-    long_trip("Newark-VA", ROUTE, (20, 29))
-    long_trip("VA-Newark", list(reversed(ROUTE)), (22, 29))
+if __name__ == "__main__":
+    NEWARK = "Baltimore, MD"
+    DC = "Washington, DC"
+    BLACKSBURG = "Christiansburg, VA"
+    ROUTE = ["Baltimore, MD", "Washington, DC", "Christiansburg, VA"]
+    if False:
+        long_trip("Newark-VA", ROUTE, (20, 25))
+        long_trip("VA-Newark", list(reversed(ROUTE)), (22, 27))
 
-#ROUTE = ["Washington, DC", "Pittsburgh, PA", "Toledo, OH", "Chicago, IL", "Minneapolis, MN"]
-long_trip("Newark to Christiansburg", ROUTE, ("8/18/2013", "8/21/2013"))
-long_trip("Christiansburg to Newark", list(reversed(ROUTE)), ("8/24/2013", "8/26/2013"))
+    #ROUTE = ["Washington, DC", "Pittsburgh, PA", "Toledo, OH", "Chicago, IL", "Minneapolis, MN"]    
+    long_trip("BaltimoreToBlacksburg", list(ROUTE), ("10/13/2013", "10/13/2013"))
+    long_trip("BlacksburgToBaltimore", list(reversed(ROUTE)), ("10/11/2013", "10/12/2013"))
+    #long_trip("Newark to Christiansburg", ROUTE, ("8/12/2013", "8/15/2013"))
         
 #import simpleai
 #result = simpleai.search.traditional.uniform_cost(TravelProblem("Newark, DE", "Orlando, FL"))

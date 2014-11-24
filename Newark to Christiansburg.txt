@@ -1,192 +1,1296 @@
-Trek: 0
-	Total Cost: $16.0
-	Total Time: 7:30 hours
-	Total Time Waiting: 50 minutes
-	Leave: Thu Aug 22 07:30 PM
-	Arrive: Fri Aug 23 03:00 AM
+Trek: Thu Aug 15 08:25 AM -> Fri Aug 16 03:00 AM for $35.0 over 18:35 hours
+	Total Cost: $35.0
+	Total Time: 18:35 hours
+	Total Time Waiting: 11:55 hours
+	Leave: Thu Aug 15 08:25 AM
+	Arrive: Fri Aug 16 03:00 AM
 	Itinerary:
-		Leave from Newark, DE: Thu 07:30 PM
-		Arrive at Washington, DC: Thu 09:40 PM
-		Wait in Washington, DC: 50 minutes
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 08:25 AM
+		Arrive at Washington, DC: Thu 10:35 AM
+		Wait in Washington, DC: 11:55 hours
 		Leave from Washington, DC: Thu 10:30 PM
 		Arrive at Christiansburg, VA: Fri 03:00 AM
-Trek: 3
-	Total Cost: $16.0
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 08:25 AM -> Fri Aug 16 02:20 PM for $37.0 over 1 days, 5:55 hours
+	Total Cost: $37.0
+	Total Time: 1 days, 5:55 hours
+	Total Time Waiting: 23:10 hours
+	Leave: Thu Aug 15 08:25 AM
+	Arrive: Fri Aug 16 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 08:25 AM
+		Arrive at Washington, DC: Thu 10:35 AM
+		Wait in Washington, DC: 23:10 hours
+		Leave from Washington, DC: Fri 09:45 AM
+		Arrive at Christiansburg, VA: Fri 02:20 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 08:25 AM -> Sat Aug 17 03:00 AM for $37.0 over 1 days, 18:35 hours
+	Total Cost: $37.0
+	Total Time: 1 days, 18:35 hours
+	Total Time Waiting: 1 days, 11:55 hours
+	Leave: Thu Aug 15 08:25 AM
+	Arrive: Sat Aug 17 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 08:25 AM
+		Arrive at Washington, DC: Thu 10:35 AM
+		Wait in Washington, DC: 1 days, 11:55 hours
+		Leave from Washington, DC: Fri 10:30 PM
+		Arrive at Christiansburg, VA: Sat 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 03:25 PM -> Fri Aug 16 03:00 AM for $35.0 over 11:35 hours
+	Total Cost: $35.0
 	Total Time: 11:35 hours
 	Total Time Waiting: 4:45 hours
-	Leave: Thu Aug 22 03:25 PM
-	Arrive: Fri Aug 23 03:00 AM
+	Leave: Thu Aug 15 03:25 PM
+	Arrive: Fri Aug 16 03:00 AM
 	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
 		Leave from Newark, DE: Thu 03:25 PM
 		Arrive at Washington, DC: Thu 05:45 PM
 		Wait in Washington, DC: 4:45 hours
 		Leave from Washington, DC: Thu 10:30 PM
 		Arrive at Christiansburg, VA: Fri 03:00 AM
-Trek: 9
-	Total Cost: $18.0
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 03:25 PM -> Fri Aug 16 02:20 PM for $37.0 over 22:55 hours
+	Total Cost: $37.0
+	Total Time: 22:55 hours
+	Total Time Waiting: 16:00 hours
+	Leave: Thu Aug 15 03:25 PM
+	Arrive: Fri Aug 16 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 03:25 PM
+		Arrive at Washington, DC: Thu 05:45 PM
+		Wait in Washington, DC: 16:00 hours
+		Leave from Washington, DC: Fri 09:45 AM
+		Arrive at Christiansburg, VA: Fri 02:20 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 03:25 PM -> Sat Aug 17 03:00 AM for $37.0 over 1 days, 11:35 hours
+	Total Cost: $37.0
+	Total Time: 1 days, 11:35 hours
+	Total Time Waiting: 1 days, 4:45 hours
+	Leave: Thu Aug 15 03:25 PM
+	Arrive: Sat Aug 17 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 03:25 PM
+		Arrive at Washington, DC: Thu 05:45 PM
+		Wait in Washington, DC: 1 days, 4:45 hours
+		Leave from Washington, DC: Fri 10:30 PM
+		Arrive at Christiansburg, VA: Sat 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 07:30 PM -> Fri Aug 16 03:00 AM for $34.0 over 7:30 hours
+	Total Cost: $34.0
 	Total Time: 7:30 hours
 	Total Time Waiting: 50 minutes
-	Leave: Wed Aug 21 07:30 PM
-	Arrive: Thu Aug 22 03:00 AM
+	Leave: Thu Aug 15 07:30 PM
+	Arrive: Fri Aug 16 03:00 AM
 	Itinerary:
-		Leave from Newark, DE: Wed 07:30 PM
-		Arrive at Washington, DC: Wed 09:40 PM
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 07:30 PM
+		Arrive at Washington, DC: Thu 09:40 PM
 		Wait in Washington, DC: 50 minutes
-		Leave from Washington, DC: Wed 10:30 PM
-		Arrive at Christiansburg, VA: Thu 03:00 AM
-Trek: 12
-	Total Cost: $20.0
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 07:30 PM -> Fri Aug 16 02:20 PM for $36.0 over 18:50 hours
+	Total Cost: $36.0
+	Total Time: 18:50 hours
+	Total Time Waiting: 12:05 hours
+	Leave: Thu Aug 15 07:30 PM
+	Arrive: Fri Aug 16 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 07:30 PM
+		Arrive at Washington, DC: Thu 09:40 PM
+		Wait in Washington, DC: 12:05 hours
+		Leave from Washington, DC: Fri 09:45 AM
+		Arrive at Christiansburg, VA: Fri 02:20 PM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 07:30 PM -> Sat Aug 17 03:00 AM for $36.0 over 1 days, 7:30 hours
+	Total Cost: $36.0
+	Total Time: 1 days, 7:30 hours
+	Total Time Waiting: 1 days, 0:50 hours
+	Leave: Thu Aug 15 07:30 PM
+	Arrive: Sat Aug 17 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 07:30 PM
+		Arrive at Washington, DC: Thu 09:40 PM
+		Wait in Washington, DC: 1 days, 0:50 hours
+		Leave from Washington, DC: Fri 10:30 PM
+		Arrive at Christiansburg, VA: Sat 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Fri Aug 16 08:25 AM -> Sat Aug 17 03:00 AM for $38.0 over 18:35 hours
+	Total Cost: $38.0
+	Total Time: 18:35 hours
+	Total Time Waiting: 11:55 hours
+	Leave: Fri Aug 16 08:25 AM
+	Arrive: Sat Aug 17 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Fri 08:25 AM
+		Arrive at Washington, DC: Fri 10:35 AM
+		Wait in Washington, DC: 11:55 hours
+		Leave from Washington, DC: Fri 10:30 PM
+		Arrive at Christiansburg, VA: Sat 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Fri Aug 16 08:25 AM -> Sat Aug 17 02:20 PM for $38.0 over 1 days, 5:55 hours
+	Total Cost: $38.0
+	Total Time: 1 days, 5:55 hours
+	Total Time Waiting: 23:10 hours
+	Leave: Fri Aug 16 08:25 AM
+	Arrive: Sat Aug 17 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Fri 08:25 AM
+		Arrive at Washington, DC: Fri 10:35 AM
+		Wait in Washington, DC: 23:10 hours
+		Leave from Washington, DC: Sat 09:45 AM
+		Arrive at Christiansburg, VA: Sat 02:20 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F17%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Fri Aug 16 08:25 AM -> Sun Aug 18 03:00 AM for $38.0 over 1 days, 18:35 hours
+	Total Cost: $38.0
+	Total Time: 1 days, 18:35 hours
+	Total Time Waiting: 1 days, 11:55 hours
+	Leave: Fri Aug 16 08:25 AM
+	Arrive: Sun Aug 18 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Fri 08:25 AM
+		Arrive at Washington, DC: Fri 10:35 AM
+		Wait in Washington, DC: 1 days, 11:55 hours
+		Leave from Washington, DC: Sat 10:30 PM
+		Arrive at Christiansburg, VA: Sun 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F17%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Fri Aug 16 03:25 PM -> Sat Aug 17 03:00 AM for $26.0 over 11:35 hours
+	Total Cost: $26.0
 	Total Time: 11:35 hours
 	Total Time Waiting: 4:45 hours
-	Leave: Wed Aug 21 03:25 PM
-	Arrive: Thu Aug 22 03:00 AM
+	Leave: Fri Aug 16 03:25 PM
+	Arrive: Sat Aug 17 03:00 AM
 	Itinerary:
-		Leave from Newark, DE: Wed 03:25 PM
-		Arrive at Washington, DC: Wed 05:45 PM
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Fri 03:25 PM
+		Arrive at Washington, DC: Fri 05:45 PM
 		Wait in Washington, DC: 4:45 hours
-		Leave from Washington, DC: Wed 10:30 PM
-		Arrive at Christiansburg, VA: Thu 03:00 AM
-Trek: 18
-	Total Cost: $18.0
+		Leave from Washington, DC: Fri 10:30 PM
+		Arrive at Christiansburg, VA: Sat 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Fri Aug 16 03:25 PM -> Sat Aug 17 02:20 PM for $26.0 over 22:55 hours
+	Total Cost: $26.0
+	Total Time: 22:55 hours
+	Total Time Waiting: 16:00 hours
+	Leave: Fri Aug 16 03:25 PM
+	Arrive: Sat Aug 17 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Fri 03:25 PM
+		Arrive at Washington, DC: Fri 05:45 PM
+		Wait in Washington, DC: 16:00 hours
+		Leave from Washington, DC: Sat 09:45 AM
+		Arrive at Christiansburg, VA: Sat 02:20 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F17%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Fri Aug 16 03:25 PM -> Sun Aug 18 03:00 AM for $26.0 over 1 days, 11:35 hours
+	Total Cost: $26.0
+	Total Time: 1 days, 11:35 hours
+	Total Time Waiting: 1 days, 4:45 hours
+	Leave: Fri Aug 16 03:25 PM
+	Arrive: Sun Aug 18 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Fri 03:25 PM
+		Arrive at Washington, DC: Fri 05:45 PM
+		Wait in Washington, DC: 1 days, 4:45 hours
+		Leave from Washington, DC: Sat 10:30 PM
+		Arrive at Christiansburg, VA: Sun 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F17%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Fri Aug 16 07:30 PM -> Sat Aug 17 03:00 AM for $26.0 over 7:30 hours
+	Total Cost: $26.0
 	Total Time: 7:30 hours
 	Total Time Waiting: 50 minutes
-	Leave: Wed Aug 21 07:30 PM
-	Arrive: Thu Aug 22 03:00 AM
+	Leave: Fri Aug 16 07:30 PM
+	Arrive: Sat Aug 17 03:00 AM
 	Itinerary:
-		Leave from Newark, DE: Wed 07:30 PM
-		Arrive at Washington, DC: Wed 09:40 PM
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Fri 07:30 PM
+		Arrive at Washington, DC: Fri 09:40 PM
 		Wait in Washington, DC: 50 minutes
-		Leave from Washington, DC: Wed 10:30 PM
-		Arrive at Christiansburg, VA: Thu 03:00 AM
-Trek: 21
-	Total Cost: $20.0
+		Leave from Washington, DC: Fri 10:30 PM
+		Arrive at Christiansburg, VA: Sat 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Fri Aug 16 07:30 PM -> Sat Aug 17 02:20 PM for $26.0 over 18:50 hours
+	Total Cost: $26.0
+	Total Time: 18:50 hours
+	Total Time Waiting: 12:05 hours
+	Leave: Fri Aug 16 07:30 PM
+	Arrive: Sat Aug 17 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Fri 07:30 PM
+		Arrive at Washington, DC: Fri 09:40 PM
+		Wait in Washington, DC: 12:05 hours
+		Leave from Washington, DC: Sat 09:45 AM
+		Arrive at Christiansburg, VA: Sat 02:20 PM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F17%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Fri Aug 16 07:30 PM -> Sun Aug 18 03:00 AM for $26.0 over 1 days, 7:30 hours
+	Total Cost: $26.0
+	Total Time: 1 days, 7:30 hours
+	Total Time Waiting: 1 days, 0:50 hours
+	Leave: Fri Aug 16 07:30 PM
+	Arrive: Sun Aug 18 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Fri 07:30 PM
+		Arrive at Washington, DC: Fri 09:40 PM
+		Wait in Washington, DC: 1 days, 0:50 hours
+		Leave from Washington, DC: Sat 10:30 PM
+		Arrive at Christiansburg, VA: Sun 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F17%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 03:25 PM -> Wed Aug 14 03:00 AM for $32.0 over 11:35 hours
+	Total Cost: $32.0
 	Total Time: 11:35 hours
 	Total Time Waiting: 4:45 hours
-	Leave: Wed Aug 21 03:25 PM
-	Arrive: Thu Aug 22 03:00 AM
+	Leave: Tue Aug 13 03:25 PM
+	Arrive: Wed Aug 14 03:00 AM
 	Itinerary:
-		Leave from Newark, DE: Wed 03:25 PM
-		Arrive at Washington, DC: Wed 05:45 PM
-		Wait in Washington, DC: 4:45 hours
-		Leave from Washington, DC: Wed 10:30 PM
-		Arrive at Christiansburg, VA: Thu 03:00 AM
-Trek: 27
-	Total Cost: $15.0
-	Total Time: 7:30 hours
-	Total Time Waiting: 50 minutes
-	Leave: Tue Aug 20 07:30 PM
-	Arrive: Wed Aug 21 03:00 AM
-	Itinerary:
-		Leave from Newark, DE: Tue 07:30 PM
-		Arrive at Washington, DC: Tue 09:40 PM
-		Wait in Washington, DC: 50 minutes
-		Leave from Washington, DC: Tue 10:30 PM
-		Arrive at Christiansburg, VA: Wed 03:00 AM
-Trek: 30
-	Total Cost: $15.0
-	Total Time: 11:35 hours
-	Total Time Waiting: 4:45 hours
-	Leave: Tue Aug 20 03:25 PM
-	Arrive: Wed Aug 21 03:00 AM
-	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
 		Leave from Newark, DE: Tue 03:25 PM
 		Arrive at Washington, DC: Tue 05:45 PM
 		Wait in Washington, DC: 4:45 hours
 		Leave from Washington, DC: Tue 10:30 PM
 		Arrive at Christiansburg, VA: Wed 03:00 AM
-Trek: 36
-	Total Cost: $15.0
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 03:25 PM -> Wed Aug 14 02:20 PM for $32.0 over 22:55 hours
+	Total Cost: $32.0
+	Total Time: 22:55 hours
+	Total Time Waiting: 16:00 hours
+	Leave: Tue Aug 13 03:25 PM
+	Arrive: Wed Aug 14 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 03:25 PM
+		Arrive at Washington, DC: Tue 05:45 PM
+		Wait in Washington, DC: 16:00 hours
+		Leave from Washington, DC: Wed 09:45 AM
+		Arrive at Christiansburg, VA: Wed 02:20 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 03:25 PM -> Thu Aug 15 03:00 AM for $32.0 over 1 days, 11:35 hours
+	Total Cost: $32.0
+	Total Time: 1 days, 11:35 hours
+	Total Time Waiting: 1 days, 4:45 hours
+	Leave: Tue Aug 13 03:25 PM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 03:25 PM
+		Arrive at Washington, DC: Tue 05:45 PM
+		Wait in Washington, DC: 1 days, 4:45 hours
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 07:30 PM -> Thu Aug 15 03:00 AM for $32.0 over 7:30 hours
+	Total Cost: $32.0
 	Total Time: 7:30 hours
 	Total Time Waiting: 50 minutes
-	Leave: Tue Aug 20 07:30 PM
-	Arrive: Wed Aug 21 03:00 AM
+	Leave: Wed Aug 14 07:30 PM
+	Arrive: Thu Aug 15 03:00 AM
 	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 07:30 PM
+		Arrive at Washington, DC: Wed 09:40 PM
+		Wait in Washington, DC: 50 minutes
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 07:30 PM -> Thu Aug 15 02:20 PM for $34.0 over 18:50 hours
+	Total Cost: $34.0
+	Total Time: 18:50 hours
+	Total Time Waiting: 12:05 hours
+	Leave: Wed Aug 14 07:30 PM
+	Arrive: Thu Aug 15 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 07:30 PM
+		Arrive at Washington, DC: Wed 09:40 PM
+		Wait in Washington, DC: 12:05 hours
+		Leave from Washington, DC: Thu 09:45 AM
+		Arrive at Christiansburg, VA: Thu 02:20 PM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 07:30 PM -> Fri Aug 16 03:00 AM for $34.0 over 1 days, 7:30 hours
+	Total Cost: $34.0
+	Total Time: 1 days, 7:30 hours
+	Total Time Waiting: 1 days, 0:50 hours
+	Leave: Wed Aug 14 07:30 PM
+	Arrive: Fri Aug 16 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 07:30 PM
+		Arrive at Washington, DC: Wed 09:40 PM
+		Wait in Washington, DC: 1 days, 0:50 hours
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 03:25 PM -> Thu Aug 15 03:00 AM for $33.0 over 11:35 hours
+	Total Cost: $33.0
+	Total Time: 11:35 hours
+	Total Time Waiting: 4:45 hours
+	Leave: Wed Aug 14 03:25 PM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 03:25 PM
+		Arrive at Washington, DC: Wed 05:45 PM
+		Wait in Washington, DC: 4:45 hours
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 03:25 PM -> Thu Aug 15 02:20 PM for $35.0 over 22:55 hours
+	Total Cost: $35.0
+	Total Time: 22:55 hours
+	Total Time Waiting: 16:00 hours
+	Leave: Wed Aug 14 03:25 PM
+	Arrive: Thu Aug 15 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 03:25 PM
+		Arrive at Washington, DC: Wed 05:45 PM
+		Wait in Washington, DC: 16:00 hours
+		Leave from Washington, DC: Thu 09:45 AM
+		Arrive at Christiansburg, VA: Thu 02:20 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 03:25 PM -> Fri Aug 16 03:00 AM for $35.0 over 1 days, 11:35 hours
+	Total Cost: $35.0
+	Total Time: 1 days, 11:35 hours
+	Total Time Waiting: 1 days, 4:45 hours
+	Leave: Wed Aug 14 03:25 PM
+	Arrive: Fri Aug 16 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 03:25 PM
+		Arrive at Washington, DC: Wed 05:45 PM
+		Wait in Washington, DC: 1 days, 4:45 hours
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 08:25 AM -> Thu Aug 15 03:00 AM for $33.0 over 18:35 hours
+	Total Cost: $33.0
+	Total Time: 18:35 hours
+	Total Time Waiting: 11:55 hours
+	Leave: Wed Aug 14 08:25 AM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 08:25 AM
+		Arrive at Washington, DC: Wed 10:35 AM
+		Wait in Washington, DC: 11:55 hours
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 08:25 AM -> Thu Aug 15 02:20 PM for $35.0 over 1 days, 5:55 hours
+	Total Cost: $35.0
+	Total Time: 1 days, 5:55 hours
+	Total Time Waiting: 23:10 hours
+	Leave: Wed Aug 14 08:25 AM
+	Arrive: Thu Aug 15 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 08:25 AM
+		Arrive at Washington, DC: Wed 10:35 AM
+		Wait in Washington, DC: 23:10 hours
+		Leave from Washington, DC: Thu 09:45 AM
+		Arrive at Christiansburg, VA: Thu 02:20 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 08:25 AM -> Fri Aug 16 03:00 AM for $35.0 over 1 days, 18:35 hours
+	Total Cost: $35.0
+	Total Time: 1 days, 18:35 hours
+	Total Time Waiting: 1 days, 11:55 hours
+	Leave: Wed Aug 14 08:25 AM
+	Arrive: Fri Aug 16 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 08:25 AM
+		Arrive at Washington, DC: Wed 10:35 AM
+		Wait in Washington, DC: 1 days, 11:55 hours
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 07:30 PM -> Wed Aug 14 03:00 AM for $33.0 over 7:30 hours
+	Total Cost: $33.0
+	Total Time: 7:30 hours
+	Total Time Waiting: 50 minutes
+	Leave: Tue Aug 13 07:30 PM
+	Arrive: Wed Aug 14 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
 		Leave from Newark, DE: Tue 07:30 PM
 		Arrive at Washington, DC: Tue 09:40 PM
 		Wait in Washington, DC: 50 minutes
 		Leave from Washington, DC: Tue 10:30 PM
 		Arrive at Christiansburg, VA: Wed 03:00 AM
-Trek: 39
-	Total Cost: $15.0
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 07:30 PM -> Wed Aug 14 02:20 PM for $33.0 over 18:50 hours
+	Total Cost: $33.0
+	Total Time: 18:50 hours
+	Total Time Waiting: 12:05 hours
+	Leave: Tue Aug 13 07:30 PM
+	Arrive: Wed Aug 14 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 07:30 PM
+		Arrive at Washington, DC: Tue 09:40 PM
+		Wait in Washington, DC: 12:05 hours
+		Leave from Washington, DC: Wed 09:45 AM
+		Arrive at Christiansburg, VA: Wed 02:20 PM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 07:30 PM -> Thu Aug 15 03:00 AM for $33.0 over 1 days, 7:30 hours
+	Total Cost: $33.0
+	Total Time: 1 days, 7:30 hours
+	Total Time Waiting: 1 days, 0:50 hours
+	Leave: Tue Aug 13 07:30 PM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 07:30 PM
+		Arrive at Washington, DC: Tue 09:40 PM
+		Wait in Washington, DC: 1 days, 0:50 hours
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 08:25 AM -> Wed Aug 14 03:00 AM for $33.0 over 18:35 hours
+	Total Cost: $33.0
+	Total Time: 18:35 hours
+	Total Time Waiting: 11:55 hours
+	Leave: Tue Aug 13 08:25 AM
+	Arrive: Wed Aug 14 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 08:25 AM
+		Arrive at Washington, DC: Tue 10:35 AM
+		Wait in Washington, DC: 11:55 hours
+		Leave from Washington, DC: Tue 10:30 PM
+		Arrive at Christiansburg, VA: Wed 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 08:25 AM -> Wed Aug 14 02:20 PM for $33.0 over 1 days, 5:55 hours
+	Total Cost: $33.0
+	Total Time: 1 days, 5:55 hours
+	Total Time Waiting: 23:10 hours
+	Leave: Tue Aug 13 08:25 AM
+	Arrive: Wed Aug 14 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 08:25 AM
+		Arrive at Washington, DC: Tue 10:35 AM
+		Wait in Washington, DC: 23:10 hours
+		Leave from Washington, DC: Wed 09:45 AM
+		Arrive at Christiansburg, VA: Wed 02:20 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 08:25 AM -> Thu Aug 15 03:00 AM for $33.0 over 1 days, 18:35 hours
+	Total Cost: $33.0
+	Total Time: 1 days, 18:35 hours
+	Total Time Waiting: 1 days, 11:55 hours
+	Leave: Tue Aug 13 08:25 AM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 08:25 AM
+		Arrive at Washington, DC: Tue 10:35 AM
+		Wait in Washington, DC: 1 days, 11:55 hours
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Mon Aug 12 08:25 AM -> Tue Aug 13 03:00 AM for $38.0 over 18:35 hours
+	Total Cost: $38.0
+	Total Time: 18:35 hours
+	Total Time Waiting: 11:55 hours
+	Leave: Mon Aug 12 08:25 AM
+	Arrive: Tue Aug 13 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Mon 08:25 AM
+		Arrive at Washington, DC: Mon 10:35 AM
+		Wait in Washington, DC: 11:55 hours
+		Leave from Washington, DC: Mon 10:30 PM
+		Arrive at Christiansburg, VA: Tue 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Mon Aug 12 08:25 AM -> Tue Aug 13 02:20 PM for $36.0 over 1 days, 5:55 hours
+	Total Cost: $36.0
+	Total Time: 1 days, 5:55 hours
+	Total Time Waiting: 23:10 hours
+	Leave: Mon Aug 12 08:25 AM
+	Arrive: Tue Aug 13 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Mon 08:25 AM
+		Arrive at Washington, DC: Mon 10:35 AM
+		Wait in Washington, DC: 23:10 hours
+		Leave from Washington, DC: Tue 09:45 AM
+		Arrive at Christiansburg, VA: Tue 02:20 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Mon Aug 12 08:25 AM -> Wed Aug 14 03:00 AM for $34.0 over 1 days, 18:35 hours
+	Total Cost: $34.0
+	Total Time: 1 days, 18:35 hours
+	Total Time Waiting: 1 days, 11:55 hours
+	Leave: Mon Aug 12 08:25 AM
+	Arrive: Wed Aug 14 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Mon 08:25 AM
+		Arrive at Washington, DC: Mon 10:35 AM
+		Wait in Washington, DC: 1 days, 11:55 hours
+		Leave from Washington, DC: Tue 10:30 PM
+		Arrive at Christiansburg, VA: Wed 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Mon Aug 12 07:30 PM -> Tue Aug 13 03:00 AM for $36.0 over 7:30 hours
+	Total Cost: $36.0
+	Total Time: 7:30 hours
+	Total Time Waiting: 50 minutes
+	Leave: Mon Aug 12 07:30 PM
+	Arrive: Tue Aug 13 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Mon 07:30 PM
+		Arrive at Washington, DC: Mon 09:40 PM
+		Wait in Washington, DC: 50 minutes
+		Leave from Washington, DC: Mon 10:30 PM
+		Arrive at Christiansburg, VA: Tue 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Mon Aug 12 07:30 PM -> Tue Aug 13 02:20 PM for $34.0 over 18:50 hours
+	Total Cost: $34.0
+	Total Time: 18:50 hours
+	Total Time Waiting: 12:05 hours
+	Leave: Mon Aug 12 07:30 PM
+	Arrive: Tue Aug 13 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Mon 07:30 PM
+		Arrive at Washington, DC: Mon 09:40 PM
+		Wait in Washington, DC: 12:05 hours
+		Leave from Washington, DC: Tue 09:45 AM
+		Arrive at Christiansburg, VA: Tue 02:20 PM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Mon Aug 12 07:30 PM -> Wed Aug 14 03:00 AM for $32.0 over 1 days, 7:30 hours
+	Total Cost: $32.0
+	Total Time: 1 days, 7:30 hours
+	Total Time Waiting: 1 days, 0:50 hours
+	Leave: Mon Aug 12 07:30 PM
+	Arrive: Wed Aug 14 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Mon 07:30 PM
+		Arrive at Washington, DC: Mon 09:40 PM
+		Wait in Washington, DC: 1 days, 0:50 hours
+		Leave from Washington, DC: Tue 10:30 PM
+		Arrive at Christiansburg, VA: Wed 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 08:25 AM -> Wed Aug 14 03:00 AM for $33.0 over 18:35 hours
+	Total Cost: $33.0
+	Total Time: 18:35 hours
+	Total Time Waiting: 11:55 hours
+	Leave: Tue Aug 13 08:25 AM
+	Arrive: Wed Aug 14 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 08:25 AM
+		Arrive at Washington, DC: Tue 10:35 AM
+		Wait in Washington, DC: 11:55 hours
+		Leave from Washington, DC: Tue 10:30 PM
+		Arrive at Christiansburg, VA: Wed 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 08:25 AM -> Wed Aug 14 02:20 PM for $33.0 over 1 days, 5:55 hours
+	Total Cost: $33.0
+	Total Time: 1 days, 5:55 hours
+	Total Time Waiting: 23:10 hours
+	Leave: Tue Aug 13 08:25 AM
+	Arrive: Wed Aug 14 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 08:25 AM
+		Arrive at Washington, DC: Tue 10:35 AM
+		Wait in Washington, DC: 23:10 hours
+		Leave from Washington, DC: Wed 09:45 AM
+		Arrive at Christiansburg, VA: Wed 02:20 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 08:25 AM -> Thu Aug 15 03:00 AM for $33.0 over 1 days, 18:35 hours
+	Total Cost: $33.0
+	Total Time: 1 days, 18:35 hours
+	Total Time Waiting: 1 days, 11:55 hours
+	Leave: Tue Aug 13 08:25 AM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 08:25 AM
+		Arrive at Washington, DC: Tue 10:35 AM
+		Wait in Washington, DC: 1 days, 11:55 hours
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 03:25 PM -> Wed Aug 14 03:00 AM for $32.0 over 11:35 hours
+	Total Cost: $32.0
 	Total Time: 11:35 hours
 	Total Time Waiting: 4:45 hours
-	Leave: Tue Aug 20 03:25 PM
-	Arrive: Wed Aug 21 03:00 AM
+	Leave: Tue Aug 13 03:25 PM
+	Arrive: Wed Aug 14 03:00 AM
 	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
 		Leave from Newark, DE: Tue 03:25 PM
 		Arrive at Washington, DC: Tue 05:45 PM
 		Wait in Washington, DC: 4:45 hours
 		Leave from Washington, DC: Tue 10:30 PM
 		Arrive at Christiansburg, VA: Wed 03:00 AM
-Trek: 45
-	Total Cost: $15.0
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 03:25 PM -> Wed Aug 14 02:20 PM for $32.0 over 22:55 hours
+	Total Cost: $32.0
+	Total Time: 22:55 hours
+	Total Time Waiting: 16:00 hours
+	Leave: Tue Aug 13 03:25 PM
+	Arrive: Wed Aug 14 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 03:25 PM
+		Arrive at Washington, DC: Tue 05:45 PM
+		Wait in Washington, DC: 16:00 hours
+		Leave from Washington, DC: Wed 09:45 AM
+		Arrive at Christiansburg, VA: Wed 02:20 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 03:25 PM -> Thu Aug 15 03:00 AM for $32.0 over 1 days, 11:35 hours
+	Total Cost: $32.0
+	Total Time: 1 days, 11:35 hours
+	Total Time Waiting: 1 days, 4:45 hours
+	Leave: Tue Aug 13 03:25 PM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 03:25 PM
+		Arrive at Washington, DC: Tue 05:45 PM
+		Wait in Washington, DC: 1 days, 4:45 hours
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 07:30 PM -> Wed Aug 14 03:00 AM for $33.0 over 7:30 hours
+	Total Cost: $33.0
 	Total Time: 7:30 hours
 	Total Time Waiting: 50 minutes
-	Leave: Mon Aug 19 07:30 PM
-	Arrive: Tue Aug 20 03:00 AM
+	Leave: Tue Aug 13 07:30 PM
+	Arrive: Wed Aug 14 03:00 AM
 	Itinerary:
-		Leave from Newark, DE: Mon 07:30 PM
-		Arrive at Washington, DC: Mon 09:40 PM
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 07:30 PM
+		Arrive at Washington, DC: Tue 09:40 PM
 		Wait in Washington, DC: 50 minutes
-		Leave from Washington, DC: Mon 10:30 PM
-		Arrive at Christiansburg, VA: Tue 03:00 AM
-Trek: 48
-	Total Cost: $15.0
+		Leave from Washington, DC: Tue 10:30 PM
+		Arrive at Christiansburg, VA: Wed 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 07:30 PM -> Wed Aug 14 02:20 PM for $33.0 over 18:50 hours
+	Total Cost: $33.0
+	Total Time: 18:50 hours
+	Total Time Waiting: 12:05 hours
+	Leave: Tue Aug 13 07:30 PM
+	Arrive: Wed Aug 14 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 07:30 PM
+		Arrive at Washington, DC: Tue 09:40 PM
+		Wait in Washington, DC: 12:05 hours
+		Leave from Washington, DC: Wed 09:45 AM
+		Arrive at Christiansburg, VA: Wed 02:20 PM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Tue Aug 13 07:30 PM -> Thu Aug 15 03:00 AM for $33.0 over 1 days, 7:30 hours
+	Total Cost: $33.0
+	Total Time: 1 days, 7:30 hours
+	Total Time Waiting: 1 days, 0:50 hours
+	Leave: Tue Aug 13 07:30 PM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Tue 07:30 PM
+		Arrive at Washington, DC: Tue 09:40 PM
+		Wait in Washington, DC: 1 days, 0:50 hours
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Mon Aug 12 03:25 PM -> Tue Aug 13 03:00 AM for $37.0 over 11:35 hours
+	Total Cost: $37.0
 	Total Time: 11:35 hours
 	Total Time Waiting: 4:45 hours
-	Leave: Mon Aug 19 03:25 PM
-	Arrive: Tue Aug 20 03:00 AM
+	Leave: Mon Aug 12 03:25 PM
+	Arrive: Tue Aug 13 03:00 AM
 	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
 		Leave from Newark, DE: Mon 03:25 PM
 		Arrive at Washington, DC: Mon 05:45 PM
 		Wait in Washington, DC: 4:45 hours
 		Leave from Washington, DC: Mon 10:30 PM
 		Arrive at Christiansburg, VA: Tue 03:00 AM
-Trek: 54
-	Total Cost: $15.0
-	Total Time: 7:30 hours
-	Total Time Waiting: 50 minutes
-	Leave: Mon Aug 19 07:30 PM
-	Arrive: Tue Aug 20 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Mon Aug 12 03:25 PM -> Tue Aug 13 02:20 PM for $35.0 over 22:55 hours
+	Total Cost: $35.0
+	Total Time: 22:55 hours
+	Total Time Waiting: 16:00 hours
+	Leave: Mon Aug 12 03:25 PM
+	Arrive: Tue Aug 13 02:20 PM
 	Itinerary:
-		Leave from Newark, DE: Mon 07:30 PM
-		Arrive at Washington, DC: Mon 09:40 PM
-		Wait in Washington, DC: 50 minutes
-		Leave from Washington, DC: Mon 10:30 PM
-		Arrive at Christiansburg, VA: Tue 03:00 AM
-Trek: 57
-	Total Cost: $15.0
-	Total Time: 11:35 hours
-	Total Time Waiting: 4:45 hours
-	Leave: Mon Aug 19 03:25 PM
-	Arrive: Tue Aug 20 03:00 AM
-	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
 		Leave from Newark, DE: Mon 03:25 PM
 		Arrive at Washington, DC: Mon 05:45 PM
-		Wait in Washington, DC: 4:45 hours
-		Leave from Washington, DC: Mon 10:30 PM
-		Arrive at Christiansburg, VA: Tue 03:00 AM
-Trek: 63
-	Total Cost: $29.0
-	Total Time: 7:30 hours
-	Total Time Waiting: 50 minutes
-	Leave: Sun Aug 18 07:30 PM
-	Arrive: Mon Aug 19 03:00 AM
+		Wait in Washington, DC: 16:00 hours
+		Leave from Washington, DC: Tue 09:45 AM
+		Arrive at Christiansburg, VA: Tue 02:20 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Mon Aug 12 03:25 PM -> Wed Aug 14 03:00 AM for $33.0 over 1 days, 11:35 hours
+	Total Cost: $33.0
+	Total Time: 1 days, 11:35 hours
+	Total Time Waiting: 1 days, 4:45 hours
+	Leave: Mon Aug 12 03:25 PM
+	Arrive: Wed Aug 14 03:00 AM
 	Itinerary:
-		Leave from Newark, DE: Sun 07:30 PM
-		Arrive at Washington, DC: Sun 09:40 PM
-		Wait in Washington, DC: 50 minutes
-		Leave from Washington, DC: Sun 10:30 PM
-		Arrive at Christiansburg, VA: Mon 03:00 AM
-Trek: 66
-	Total Cost: $20.0
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Mon 03:25 PM
+		Arrive at Washington, DC: Mon 05:45 PM
+		Wait in Washington, DC: 1 days, 4:45 hours
+		Leave from Washington, DC: Tue 10:30 PM
+		Arrive at Christiansburg, VA: Wed 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F12%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F13%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 08:25 AM -> Thu Aug 15 03:00 AM for $33.0 over 18:35 hours
+	Total Cost: $33.0
+	Total Time: 18:35 hours
+	Total Time Waiting: 11:55 hours
+	Leave: Wed Aug 14 08:25 AM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 08:25 AM
+		Arrive at Washington, DC: Wed 10:35 AM
+		Wait in Washington, DC: 11:55 hours
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 08:25 AM -> Thu Aug 15 02:20 PM for $35.0 over 1 days, 5:55 hours
+	Total Cost: $35.0
+	Total Time: 1 days, 5:55 hours
+	Total Time Waiting: 23:10 hours
+	Leave: Wed Aug 14 08:25 AM
+	Arrive: Thu Aug 15 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 08:25 AM
+		Arrive at Washington, DC: Wed 10:35 AM
+		Wait in Washington, DC: 23:10 hours
+		Leave from Washington, DC: Thu 09:45 AM
+		Arrive at Christiansburg, VA: Thu 02:20 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 08:25 AM -> Fri Aug 16 03:00 AM for $35.0 over 1 days, 18:35 hours
+	Total Cost: $35.0
+	Total Time: 1 days, 18:35 hours
+	Total Time Waiting: 1 days, 11:55 hours
+	Leave: Wed Aug 14 08:25 AM
+	Arrive: Fri Aug 16 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 08:25 AM
+		Arrive at Washington, DC: Wed 10:35 AM
+		Wait in Washington, DC: 1 days, 11:55 hours
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 03:25 PM -> Thu Aug 15 03:00 AM for $33.0 over 11:35 hours
+	Total Cost: $33.0
 	Total Time: 11:35 hours
 	Total Time Waiting: 4:45 hours
-	Leave: Sun Aug 18 03:25 PM
-	Arrive: Mon Aug 19 03:00 AM
+	Leave: Wed Aug 14 03:25 PM
+	Arrive: Thu Aug 15 03:00 AM
 	Itinerary:
-		Leave from Newark, DE: Sun 03:25 PM
-		Arrive at Washington, DC: Sun 05:45 PM
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 03:25 PM
+		Arrive at Washington, DC: Wed 05:45 PM
 		Wait in Washington, DC: 4:45 hours
-		Leave from Washington, DC: Sun 10:30 PM
-		Arrive at Christiansburg, VA: Mon 03:00 AM
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 03:25 PM -> Thu Aug 15 02:20 PM for $35.0 over 22:55 hours
+	Total Cost: $35.0
+	Total Time: 22:55 hours
+	Total Time Waiting: 16:00 hours
+	Leave: Wed Aug 14 03:25 PM
+	Arrive: Thu Aug 15 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 03:25 PM
+		Arrive at Washington, DC: Wed 05:45 PM
+		Wait in Washington, DC: 16:00 hours
+		Leave from Washington, DC: Thu 09:45 AM
+		Arrive at Christiansburg, VA: Thu 02:20 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 03:25 PM -> Fri Aug 16 03:00 AM for $35.0 over 1 days, 11:35 hours
+	Total Cost: $35.0
+	Total Time: 1 days, 11:35 hours
+	Total Time Waiting: 1 days, 4:45 hours
+	Leave: Wed Aug 14 03:25 PM
+	Arrive: Fri Aug 16 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 03:25 PM
+		Arrive at Washington, DC: Wed 05:45 PM
+		Wait in Washington, DC: 1 days, 4:45 hours
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 03:25 PM -> Fri Aug 16 03:00 AM for $35.0 over 11:35 hours
+	Total Cost: $35.0
+	Total Time: 11:35 hours
+	Total Time Waiting: 4:45 hours
+	Leave: Thu Aug 15 03:25 PM
+	Arrive: Fri Aug 16 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 03:25 PM
+		Arrive at Washington, DC: Thu 05:45 PM
+		Wait in Washington, DC: 4:45 hours
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 03:25 PM -> Fri Aug 16 02:20 PM for $37.0 over 22:55 hours
+	Total Cost: $37.0
+	Total Time: 22:55 hours
+	Total Time Waiting: 16:00 hours
+	Leave: Thu Aug 15 03:25 PM
+	Arrive: Fri Aug 16 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 03:25 PM
+		Arrive at Washington, DC: Thu 05:45 PM
+		Wait in Washington, DC: 16:00 hours
+		Leave from Washington, DC: Fri 09:45 AM
+		Arrive at Christiansburg, VA: Fri 02:20 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 03:25 PM -> Sat Aug 17 03:00 AM for $37.0 over 1 days, 11:35 hours
+	Total Cost: $37.0
+	Total Time: 1 days, 11:35 hours
+	Total Time Waiting: 1 days, 4:45 hours
+	Leave: Thu Aug 15 03:25 PM
+	Arrive: Sat Aug 17 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 03:25 PM
+		Arrive at Washington, DC: Thu 05:45 PM
+		Wait in Washington, DC: 1 days, 4:45 hours
+		Leave from Washington, DC: Fri 10:30 PM
+		Arrive at Christiansburg, VA: Sat 03:00 AM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 07:30 PM -> Thu Aug 15 03:00 AM for $32.0 over 7:30 hours
+	Total Cost: $32.0
+	Total Time: 7:30 hours
+	Total Time Waiting: 50 minutes
+	Leave: Wed Aug 14 07:30 PM
+	Arrive: Thu Aug 15 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 07:30 PM
+		Arrive at Washington, DC: Wed 09:40 PM
+		Wait in Washington, DC: 50 minutes
+		Leave from Washington, DC: Wed 10:30 PM
+		Arrive at Christiansburg, VA: Thu 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 07:30 PM -> Thu Aug 15 02:20 PM for $34.0 over 18:50 hours
+	Total Cost: $34.0
+	Total Time: 18:50 hours
+	Total Time Waiting: 12:05 hours
+	Leave: Wed Aug 14 07:30 PM
+	Arrive: Thu Aug 15 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 07:30 PM
+		Arrive at Washington, DC: Wed 09:40 PM
+		Wait in Washington, DC: 12:05 hours
+		Leave from Washington, DC: Thu 09:45 AM
+		Arrive at Christiansburg, VA: Thu 02:20 PM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Wed Aug 14 07:30 PM -> Fri Aug 16 03:00 AM for $34.0 over 1 days, 7:30 hours
+	Total Cost: $34.0
+	Total Time: 1 days, 7:30 hours
+	Total Time Waiting: 1 days, 0:50 hours
+	Leave: Wed Aug 14 07:30 PM
+	Arrive: Fri Aug 16 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Wed 07:30 PM
+		Arrive at Washington, DC: Wed 09:40 PM
+		Wait in Washington, DC: 1 days, 0:50 hours
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F14%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 08:25 AM -> Fri Aug 16 03:00 AM for $35.0 over 18:35 hours
+	Total Cost: $35.0
+	Total Time: 18:35 hours
+	Total Time Waiting: 11:55 hours
+	Leave: Thu Aug 15 08:25 AM
+	Arrive: Fri Aug 16 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 08:25 AM
+		Arrive at Washington, DC: Thu 10:35 AM
+		Wait in Washington, DC: 11:55 hours
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 08:25 AM -> Fri Aug 16 02:20 PM for $37.0 over 1 days, 5:55 hours
+	Total Cost: $37.0
+	Total Time: 1 days, 5:55 hours
+	Total Time Waiting: 23:10 hours
+	Leave: Thu Aug 15 08:25 AM
+	Arrive: Fri Aug 16 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 08:25 AM
+		Arrive at Washington, DC: Thu 10:35 AM
+		Wait in Washington, DC: 23:10 hours
+		Leave from Washington, DC: Fri 09:45 AM
+		Arrive at Christiansburg, VA: Fri 02:20 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 08:25 AM -> Sat Aug 17 03:00 AM for $37.0 over 1 days, 18:35 hours
+	Total Cost: $37.0
+	Total Time: 1 days, 18:35 hours
+	Total Time Waiting: 1 days, 11:55 hours
+	Leave: Thu Aug 15 08:25 AM
+	Arrive: Sat Aug 17 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 08:25 AM
+		Arrive at Washington, DC: Thu 10:35 AM
+		Wait in Washington, DC: 1 days, 11:55 hours
+		Leave from Washington, DC: Fri 10:30 PM
+		Arrive at Christiansburg, VA: Sat 03:00 AM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 07:30 PM -> Fri Aug 16 03:00 AM for $34.0 over 7:30 hours
+	Total Cost: $34.0
+	Total Time: 7:30 hours
+	Total Time Waiting: 50 minutes
+	Leave: Thu Aug 15 07:30 PM
+	Arrive: Fri Aug 16 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 07:30 PM
+		Arrive at Washington, DC: Thu 09:40 PM
+		Wait in Washington, DC: 50 minutes
+		Leave from Washington, DC: Thu 10:30 PM
+		Arrive at Christiansburg, VA: Fri 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 07:30 PM -> Fri Aug 16 02:20 PM for $36.0 over 18:50 hours
+	Total Cost: $36.0
+	Total Time: 18:50 hours
+	Total Time Waiting: 12:05 hours
+	Leave: Thu Aug 15 07:30 PM
+	Arrive: Fri Aug 16 02:20 PM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 07:30 PM
+		Arrive at Washington, DC: Thu 09:40 PM
+		Wait in Washington, DC: 12:05 hours
+		Leave from Washington, DC: Fri 09:45 AM
+		Arrive at Christiansburg, VA: Fri 02:20 PM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: Thu Aug 15 07:30 PM -> Sat Aug 17 03:00 AM for $36.0 over 1 days, 7:30 hours
+	Total Cost: $36.0
+	Total Time: 1 days, 7:30 hours
+	Total Time Waiting: 1 days, 0:50 hours
+	Leave: Thu Aug 15 07:30 PM
+	Arrive: Sat Aug 17 03:00 AM
+	Itinerary:
+	Newark, DE -> Washington, DC -> Christiansburg, VA
+		Leave from Newark, DE: Thu 07:30 PM
+		Arrive at Washington, DC: Thu 09:40 PM
+		Wait in Washington, DC: 1 days, 0:50 hours
+		Leave from Washington, DC: Fri 10:30 PM
+		Arrive at Christiansburg, VA: Sat 03:00 AM
+	Ticket URLs:
+		Ticket URL (#3): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F15%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=389
+
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=08%2F16%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+

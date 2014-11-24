@@ -1,0 +1,72 @@
+Trek: 0
+	Total Cost: $8.0
+	Total Time: 1:55 hours
+	Total Time Waiting: 16:25 hours
+	Leave: Fri Oct 04 01:40 PM
+	Arrive: Sat Oct 05 03:35 PM
+	Itinerary:
+	Christiansburg, VA -> Knoxville, TN -> Christiansburg, VA
+		Leave from Christiansburg, VA: Fri 01:40 PM
+		Arrive at Knoxville, TN: Fri 06:00 PM
+		Wait in Knoxville, TN: 16:25 hours
+		Leave from Knoxville, TN: Sat 10:25 AM
+		Arrive at Christiansburg, VA: Sat 03:35 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=118&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=10%2F04%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=101
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=10%2F05%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=118
+
+Trek: 1
+	Total Cost: $8.0
+	Total Time: 1:55 hours
+	Total Time Waiting: 16:25 hours
+	Leave: Fri Oct 04 01:40 PM
+	Arrive: Sat Oct 05 03:35 PM
+	Itinerary:
+	Christiansburg, VA -> Knoxville, TN -> Christiansburg, VA
+		Leave from Christiansburg, VA: Fri 01:40 PM
+		Arrive at Knoxville, TN: Fri 06:00 PM
+		Wait in Knoxville, TN: 16:25 hours
+		Leave from Knoxville, TN: Sat 10:25 AM
+		Arrive at Christiansburg, VA: Sat 03:35 PM
+	Ticket URLs:
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=118&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=10%2F04%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=101
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=10%2F05%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=118
+
+Trek: 2
+	Total Cost: $22.0
+	Total Time: 18:10 hours
+	Total Time Waiting: 9:10 hours
+	Leave: Fri Oct 04 07:20 PM
+	Arrive: Sat Oct 05 01:30 PM
+	Itinerary:
+	Christiansburg, VA -> Washington, DC -> Christiansburg, VA
+		Leave from Christiansburg, VA: Fri 07:20 PM
+		Arrive at Washington, DC: Fri 11:50 PM
+		Wait in Washington, DC: 9:10 hours
+		Leave from Washington, DC: Sat 09:00 AM
+		Arrive at Christiansburg, VA: Sat 01:30 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=10%2F04%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=101
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=10%2F05%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+
+Trek: 3
+	Total Cost: $22.0
+	Total Time: 18:10 hours
+	Total Time Waiting: 9:10 hours
+	Leave: Fri Oct 04 07:20 PM
+	Arrive: Sat Oct 05 01:30 PM
+	Itinerary:
+	Christiansburg, VA -> Washington, DC -> Christiansburg, VA
+		Leave from Christiansburg, VA: Fri 07:20 PM
+		Arrive at Washington, DC: Fri 11:50 PM
+		Wait in Washington, DC: 9:10 hours
+		Leave from Washington, DC: Sat 09:00 AM
+		Arrive at Christiansburg, VA: Sat 01:30 PM
+	Ticket URLs:
+		Ticket URL (#2): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=142&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=10%2F04%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=101
+
+		Ticket URL (#1): http://us.megabus.com/JourneyResults.aspx?withReturn=0&transportType=0&nusCount=0&inboundDepartureDate=&destinationCode=101&outboundPcaCount=0&inboundPcaCount=0&outboundWheelchairSeated=0&promotionCode=&inboundWheelchairSeated=0&passengerCount=1&outboundOtherDisabilityCount=0&outboundDepartureDate=10%2F05%2F2013&concessionCount=0&inboundOtherDisabilityCount=0&originCode=142
+

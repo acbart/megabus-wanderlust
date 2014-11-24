@@ -50,7 +50,7 @@
 294 Mobile, AL
 293 Montgomery, AL
 299 Morgantown, WV
-291 Nashville , TN
+291 Nashville, TN
 305 New Brunswick, NJ
 122 New Haven, CT
 303 New Orleans, LA
@@ -85,3 +85,4 @@
 140 Toledo, OH
 145 Toronto, ON
 142 Washington, DC
+999 Atlantic City, NJ
