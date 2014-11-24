@@ -5,7 +5,9 @@ from bs4 import BeautifulSoup
 import datetime
 import itertools
 from heapq import heappop, heappush
-def removeNonAscii(s): return "".join(filter(lambda x: ord(x)<128, s))
+from util import to_ascii, load_json, safe_str
+
+DATA = load_json("data/location_data.json")
 
 class Trek(object):
     def __init__(self, start, trips=None):
@@ -148,7 +150,7 @@ def search(origin, destination, date):
                "withReturn": "0"}
     result = requests.get(url, params=payload)
     complete_url = result.url
-    result = removeNonAscii(result.content).encode('ascii', 'ignore')
+    result = to_ascii(result.content).encode('ascii', 'ignore')
     result = BeautifulSoup(result)
     results = []
     for id, r in enumerate(result.find_all(class_ = "journey standard")):
@@ -176,20 +178,11 @@ def search(origin, destination, date):
     return results
 
 # Get location codes
-codefile = open('codes.txt', 'r')
-city_codes = {}
-city_names = {}
-for line in codefile:
-    value, name = line.split(' ', 1)
-    city_codes[int(value)] = name.strip()
-    city_names[name.strip()] = int(value)
+city_codes = DATA['code_to_city']
+city_names = DATA['city_to_code']
     
 # Get paths
-pathfile = open('locations.txt', 'r')
-paths = {}
-for line in pathfile:
-    source, destinations = line.strip().split(":", 1)
-    paths[source] = destinations.split("|")
+paths = DATA['destination_map']
 
 from simpleai.search import SearchProblem
 class TravelProblem(SearchProblem):

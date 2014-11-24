@@ -1,32 +1,29 @@
-import sys
+import sys, os
 import networkx as nx
 import matplotlib.pyplot as plt
-import json
-from megabus import cache_search, Trek, Stop, Trip, report, day_range, report_append, long_trip
-import datetime
 from heapq import heappop, heappush
 from random import randint
-import time
+import time, datetime
 from requests import ConnectionError
 
-def rand():
-    return randint(1, 100)
+from megabus import Trek, Stop, Trip
+from megabus import cache_search, report, day_range, report_append, long_trip
+from util import load_json, safe_str
 
-G=nx.Graph()
+DATA = load_json("data/location_data.json")
+america = nx.Graph()
+for edge in DATA['weighted_destinations']:
+    america.add_edge(edge["origin"], edge["destination"], 
+                     weight=edge["duration"])
 
-file = open("calculated_edges.txt", "r")
-data = json.load(file)
-file.close()
+def find_route(source="Christiansburg, VA", target="Newark, DE",
+               start= "12/20/2014", end = "12/27/2014"):
+    route = nx.dijkstra_path(america,source,target)
+    route = [str(r) for r in route]
+    long_trip("{}-{}".format(source,target), route, (start, end))
+    return route
 
-for pair in data:
-    G.add_edge(pair["origin"], pair["destination"], weight=pair["duration"])
-        
-ROUTE = nx.dijkstra_path(G,source="Christiansburg, VA",target="Atlanta, GA")
-ROUTE = [str(r) for r in ROUTE]
-
-print ROUTE
-long_trip("ChristiansburgToIndianpolis", ROUTE, ("10/20/2013", "10/27/2013"))
-
+find_route()
 sys.exit()
 
 def wander(start_date, end_date, start_city, no_loop_back=True, money_limit = None):
